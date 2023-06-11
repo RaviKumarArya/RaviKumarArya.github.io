@@ -6,8 +6,6 @@ date: 2023-06-11
 
 ---
 
-{% comment %} 
-
 <strong>Warnings:</strong>
 - Work in progress (WIP), use with caution. The unfilled information will be filled in as time permits.
 - This list is to help the antenna community to find antenna-related journals easily. This list was created manually so it might be error-prone. Use it at your own risk.
@@ -17,7 +15,7 @@ date: 2023-06-11
 
 If you have read above warnings, let’s move on.\
 
-<strong>Shortcuts:</strong>\
+<strong>Abbreviations:</strong>\
 IF: Impact Factor\
 CS:  CiteScore\
 Q: Quartiles (M:Multidisciplinary, EEE:, E:)\
@@ -26,7 +24,6 @@ APC: APC in USD\
 FD: First decision in weeks\
 SP: Sample antenna paper in the concerned journal
 
-{% endcomment %}
 
 
 
