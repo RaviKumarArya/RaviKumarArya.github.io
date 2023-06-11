@@ -13,7 +13,7 @@ date: 2023-06-11
 - If you want to help, let me know. This table is written as an Markdown file and can be updated sooner if anybody wants to help.
 
 
-If you have read above warnings, let’s move on.\
+If you have read above warnings, let’s move on.
 
 <strong>Abbreviations:</strong>\
 IF: Impact Factor\
@@ -29,6 +29,7 @@ SP: Sample antenna paper in the concerned journal
 
 | Journal Name						|ISSN		|IF	|CS	|Q	|OA	| APC	| FD	|SP						|
 |-------------------------------------------------------|---------------|-------|-------|-------|-------|-------|-------|-----------------------------------------------|
+| [Advanced Materials](https://onlinelibrary.wiley.com/journal/15214095)			| 1521-4095		| 32.086	| 47.7	|  	 | 	| 	| 1.5	| [SP](https://doi.org/10.1002/adma.202302474)				|
 | [Advanced Functional Materials](https://onlinelibrary.wiley.com/journal/16163028)			| 1616-3028(O)	| 19.924	| 26.6	|	 |	|	| 1.5 	 | [SP](https://onlinelibrary.wiley.com/doi/abs/10.1002/adfm.202302753)		|
 | [IEEE Internet of Things Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488907)		|		| 10.238	| 17.4	|  	 | 	| 	| 	| [SP](https://doi.org/10.1109/JIOT.2023.3280628)				|
 | [Alexandria Engineering Journal](https://www.sciencedirect.com/journal/alexandria-engineering-journal)		| 2090-2670(O) 1110-0168(P)	|  6.626 	| 8.3	| 	 |	|1200 	| 6.1	| [SP](https://www.sciencedirect.com/journal/alexandria-engineering-journal)		|
@@ -48,5 +49,4 @@ SP: Sample antenna paper in the concerned journal
 | [Optics Express](https://opg.optica.org/oe/home.cfm)				| 1094-4087		| 3.833	| 	|  	 | 	| 	| 4	|[SP](https://doi.org/10.1364/OE.412315)				|
 | [Flexible and Printed Electronics](https://iopscience.iop.org/journal/2058-8585)			|		| 3.768	| 	|  	 | 	| 3075	| 5	|[SP](https://doi.org/10.1088/2058-8585/accd05)				|
 | [The European Physical Journal Plus](https://www.springer.com/journal/13360)			|		| 3.758	| 3.687	|  	 | 	| 	| 5	| [SP](https://link.springer.com/article/10.1140/epjp/s13360-020-00567-6)		|
-
-
+|
