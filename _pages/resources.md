@@ -6,29 +6,33 @@ date: 2023-06-11
 
 ---
 
+
 <strong>Warnings:</strong>
+
 - Work in progress (WIP), use with caution. The unfilled information will be filled in as time permits.
 - This list is to help the antenna community to find antenna-related journals easily. This list was created manually so it might be error-prone. Use it at your own risk.
 - In case of doubt, go to the original website of the journal for the latest information. Google is your friend in that case.
-- If you want to help, let me know. This table is written as an Markdown file and can be updated sooner if anybody wants to help.
+- If you want to help, let me know. This table is written as a Markdown file and can be updated sooner if anybody wants to help.
 
+If you have read the above warnings, let’s move on.
 
-If you have read above warnings, let’s move on.
-
-<strong>Abbreviations:</strong>\
-IF: Impact Factor\
-CS:  CiteScore\
-Q: Quartiles (M:Multidisciplinary, EEE:, E:)\
+<strong>Shortcuts:</strong>\
+IF: Impact Factor, CS:  CiteScore\
+Q: Quartiles (M:Multidisciplinary, EEE:Electrical and Electronic Engineering, E:Engineering, CMP:Condensed Matter Physics, PA:Physics and Astronomy)\
 OA: Open Access mode (H:Hybrid, O:Only OA, N: No OA)\
 APC: APC in USD\
 FD: First decision in weeks\
-SP: Sample antenna paper in the concerned journal
+SP: Sample antenna paper in the concerned journal\
+NA: Concerned information is not applicable
+
 
 | Journal Name																																									|ISSN						|IF			|CS		|Q			|OA	| APC	| FD	|SP																														|
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|-----------|-------|-----------|---|-------|-------|-----------------------------------------------------------------------------------------------------------------------|
 | [Advanced Materials](https://onlinelibrary.wiley.com/journal/15214095)																										| 1521-4095					| 32.086	| 47.7	|  	 		| 	|		| 1.5	| [SP](https://doi.org/10.1002/adma.202302474)																			|
 | [Advanced Functional Materials](https://onlinelibrary.wiley.com/journal/16163028)																								| 1616-3028(O)				| 19.924	| 26.6	|	 		|	|		| 1.5	| [SP](https://doi.org/10.1002/adfm.202302753)																			|
+| [Engineering](https://www.sciencedirect.com/journal/engineering) 																												| 2096-0026(O) 2095-8099(P)	| 12.834	| 18	| 			|	| 1300	| 3.5	| [SP](https://doi.org/10.1016/j.eng.2021.10.017)																		|
 | [IEEE Internet of Things Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488907)																			|							| 10.238	| 17.4	|  	 		| 	| 		|	 	| [SP](https://doi.org/10.1109/JIOT.2023.3280628)																		|
+| [Advanced Optical Materials](https://onlinelibrary.wiley.com/journal/21951071)																								| 2195-1071(O)				| 10.050 	|		|			|	|		|		| [SP](https://onlinelibrary.wiley.com/doi/abs/10.1002/adom.202300347)													|
 | [Photonics Research](https://www.researching.cn/pr) 																															| 2327-9125					| 7.254		| 		|  	 		| 	| 		| 	 	| [SP](https://doi.org/10.1364/PRJ.477381) [SP2](https://doi.org/10.1364/PRJ.476466)									|
 | [Alexandria Engineering Journal](https://www.sciencedirect.com/journal/alexandria-engineering-journal)																		| 2090-2670(O) 1110-0168(P)	| 6.626 	| 8.3	| 	 		|	| 1200	| 6.1	| [SP]()																												|
 | [IEEE Transactions on Instrumentation and Measurement](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=19) 															| 1557-9662(O) 0018-9456(P)	| 5.332		| 5.9	|  	 		| 	| 		| 	 	| [SP]() 																												|
@@ -61,7 +65,7 @@ SP: Sample antenna paper in the concerned journal
 | [Photonics and Nanostructures - Fundamentals and Applications](https://www.sciencedirect.com/journal/photonics-and-nanostructures-fundamentals-and-applications)				|							| 3.064		| 5.1	|  	 		| 	| 		| 8.8	| [SP](https://www.sciencedirect.com/science/article/abs/pii/S156944102200102X)											|
 | [IEEE Microwave Magazine](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6668)																						|							| 3.062		| 3.8	|  	 		| 	| 		| 		| [SP]()																												|
 | [Applied Physics A Materials Science & Processing](https://www.springer.com/journal/339)																						|							| 2.983		| 		|  	 		| 	| 		| 3		| [SP](https://link.springer.com/article/10.1007/s00339-016-0676-5)														|
-| [Progress In Electromagnetics Research](https://www.jpier.org/)																												|							| 2.949		| 		|  	 		| 	| 		| 		| [SP]()																												|
+| [Progress In Electromagnetics Research](https://www.jpier.org/)																												| 1559-8985(O) 1070-4698(P)	| 2.949		| 		|  	 		| 	| 		| 		| [SP]()																												|
 | [Journal of Applied Physics](https://pubs.aip.org/aip/jap)																													|							| 2.877		| 		|  	 		| 	| 		| 		| [SP]()																												|
 | [Journal of Computational and Applied Mathematics](https://www.sciencedirect.com/journal/journal-of-computational-and-applied-mathematics)									|							| 2.872		| 5.1	|  	 		| 	| 		| 		| [SP](https://www.sciencedirect.com/science/article/abs/pii/S0377042721003484)											|
 | [Optik](https://www.sciencedirect.com/journal/optik)																															|							| 2.84		| 		|  	 		| 	| 		| 7		| [SP](https://www.sciencedirect.com/science/article/abs/pii/S0030402623004783)											|
@@ -105,6 +109,7 @@ SP: Sample antenna paper in the concerned journal
 |[Journal of Electromagnetic Waves and Applications](https://www.tandfonline.com/action/journalInformation?journalCode=tewa20)													|							| 1.438		| 2.9	|			|	|		| 2		| [SP]()																												|
 |[International Journal of Numerical Modelling: Electronic Networks, Devices And Fields](https://onlinelibrary.wiley.com/journal/10991204)										|							| 1.436		| 2.8	|			|	|		| 2		| [SP]()																												|
 |[Microelectronics Reliability](https://www.sciencedirect.com/journal/microelectronics-reliability)																				|							| 1.418		| 3.5	|			|	|		| 9.7	| [SP](https://www.sciencedirect.com/science/article/abs/pii/S0026271421004984)											|
+|[Scientia Iranica](https://scientiairanica.sharif.edu/journal/about)																											| 2345-3605(O) 1026-3098(P)	| 1.416		|		|			|	|		|		| [SP](https://doi.org/10.24200/sci.2022.57325.5202)																	|
 |[Optical Engineering](https://www.spiedigitallibrary.org/journals/optical-engineering)																							|							| 1.35		| 2.6	|			|	|		|		| [SP](https://doi.org/10.1117/1.OE.56.1.010901)																		|
 |[Journal of Circuits, Systems and Computers](https://www.worldscientific.com/page/jcsc/aims-scope)																				|							| 1.333		| 1.416	|			|	|		|		| [SP](https://www.worldscientific.com/doi/10.1142/S0218126621502984)													|
 |[Tsinghua Science & Technology](https://dc.tsinghuajournals.com/tsinghua-science-and-technology/)																				|							| 1.328		|		|			|	|		|		| [SP](https://dc.tsinghuajournals.com/tsinghua-science-and-technology/vol24/iss2/11/)									|
@@ -120,8 +125,10 @@ SP: Sample antenna paper in the concerned journal
 |[Chinese Journal of Electrical Engineering](https://ietresearch.onlinelibrary.wiley.com/journal/20755597)																		|							| 1.019		|		|			|	|		|		| [SP](https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/cje.2019.09.001)										|
 |[Radioengineering](https://www.radioeng.cz/info/1-about-the-journal.htm)																										|							| 0.947		|		|			|	|		|		| [SP](https://dx.doi.org/10.13164/re.2023.0221)																		|
 |[IEEJ Transactions on Electrical and Electronic Engineering](https://onlinelibrary.wiley.com/journal/19314981)																	|							| 0.923		|		|			|	|		|		| [SP](https://onlinelibrary.wiley.com/doi/10.1002/tee.23418)															|
-|[Indian Journal of Pure & Applied Physics (IJPAP)](https://nopr.niscpr.res.in/handle/123456789/63)																				|							| 0.846		|		|			|	|		|		| [SP](https://nopr.niscpr.res.in/handle/123456789/22877)																|
+|[Advances in Electrical and Electronic Engineering](http://advances.utc.sk/index.php/AEEE/index)																				| 1804-3119 (O)1336-1376 (P)| 0.9		| 1.7	| Q4EEE		|	|		| 		| [SP](http://advances.utc.sk/index.php/AEEE/article/view/2416)															|
 |[Turkish Journal of Electrical Engineering and Computer Sciences](https://journals.tubitak.gov.tr/elektrik/)																	| 1300-0632					| 0.853		|		|			|	|		|		| [SP](https://journals.tubitak.gov.tr/elektrik/vol31/iss2/11/)															|
+|[Indian Journal of Pure & Applied Physics (IJPAP)](https://nopr.niscpr.res.in/handle/123456789/63)																				|							| 0.846		|		|			|	|		|		| [SP](https://nopr.niscpr.res.in/handle/123456789/22877)																|
+|[Journal of Electrical Engineering The Journal of Slovak University of Technology](https://sciendo.com/journal/JEE) [JEEEC](http://iris.elf.stuba.sk/JEEEC/)					|							| 0.840		| 2.0	|			|	|		|		| [SP](https://sciendo.com/article/10.2478/jee-2023-0019)																|							
 |[Advances in Electrical and Computer Engineering](http://www.aece.ro/current.php)																								|							| 0.825		| 2.5	|			|	| €300	| 11	| [SP]()																												|
 |[Defence Science Journal](https://publications.drdo.gov.in/ojs/index.php/dsj/index)																							|							| 0.707		| 0.848	|			|	|		|		| [SP]()																												|
 |[Wulfenia](https://www.multidisciplinarywulfenia.org/)																															| 1561-882X					| 0.686		|		|			|	|		|		| [SP](http://www.multidisciplinarywulfenia.org/auto/index.php/archive/part/19/10/2/?currentVol=19&currentissue=10#)	|
@@ -138,3 +145,69 @@ SP: Sample antenna paper in the concerned journal
 |[IEICE TRANSACTIONS on Fundamentals of Electronics, Communications and Computer Sciences](https://www.ieice.org/eng/for_readers/foecc.html)									|							| 0.42		| 1.1	|			|	|		|		| [SP](https://search.ieice.org/bin/summary.php?id=e100-a_1_194)														|
 |[Electronics and Communications in Japan](https://onlinelibrary.wiley.com/journal/19429541)																					|							| 0.360		|		|			|	|		|		| [SP](https://onlinelibrary.wiley.com/doi/10.1002/ecj.12309)															|
 |[IEICE Transactions on Electronics](https://www.jstage.jst.go.jp/browse/transele/_pubinfo/-char/en)																			|							| 0.352		| 0.523	|			|	|		|		| [SP](https://www.jstage.jst.go.jp/article/transele/advpub/0/advpub_2023MMI0002/_article/-char/en)						|
+|[Sensors International](https://www.sciencedirect.com/journal/sensors-international)																							| 2666-3511(O)				| NA		| 10.2	|			| 	|		| 4.1	| [SP](https://www.sciencedirect.com/science/article/pii/S2666351123000025)												|
+|[Journal of King Saud University - Engineering Sciences (JKSUES)](https://www.sciencedirect.com/journal/journal-of-king-saud-university-engineering-sciences)					| 							| NA		| 9.8	|			|	|		| 9		| [SP](https://doi.org/10.1016/j.jksues.2018.06.003)																	|
+|[Waves in Random and Complex Media](https://www.tandfonline.com/journals/twrm20)																								| 1745-5049(O) 1745-5030(P)	| NA		| 5.2	| Q1		|	| 		| 3		| [SP]()																												|
+|[IEEE Open Journal of Antennas and Propagation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8566058)																|							| NA		| 4		|			|	| 1950	|		| [SP]()																												|
+|[Procedia Computer Science](https://www.sciencedirect.com/journal/procedia-computer-science)																					|							| NA		| 3.6	|			|	|		| 5.5	| [SP](https://www.sciencedirect.com/science/article/pii/S1877050920311169)												|
+|[Journal of Engineering](https://www.hindawi.com/journals/je/)																													|							| NA		| 3.5	|			|	| 925	| 5		| [SP](https://doi.org/10.1155/2021/6676689)																			|
+|[International Journal of Electrical and Computer Engineering (IJECE)](https://ijece.iaescore.com/index.php/IJECE)																|							| NA		| 3.2	| Q2CS Q3EEE|	|		| 		| [SP](http://doi.org/10.11591/ijece.v12i4.pp3808-3819)																	|
+|[Journal of Information and Telecommunication](https://www.tandfonline.com/action/journalInformation?journalCode=tjit20)														| 2475-1847(O)  2475-1839(P)| NA		| 3.1	|			|	|		|		| [SP](https://www.tandfonline.com/doi/full/10.1080/24751839.2023.2174646)												|
+|[Journal of Information and Telecommunication](https://www.tandfonline.com/journals/tjit20)																					| 2475-1847(O)  2475-1839(P)| NA		| 3.1	|			|	|		| 1		| [SP](https://www.tandfonline.com/doi/full/10.1080/24751839.2023.2179909)												|
+|[IEEE Journal of Electromagnetics, RF and Microwaves in Medicine and Biology IEEE J-ERM](https://ieee-jerm.org/)																| 							| NA		| 3		|			|	|		|		| [SP](http://doi.org/10.1109/JERM.2021.3137629)																		|
+|[TELKOMNIKA](http://journal.uad.ac.id/index.php/TELKOMNIKA/index)																												| 2302-9293(O) 1693-6930(P)	| NA		| 2.9	|  Q3		| 	| 		| 		| [SP](http://doi.org/10.12928/telkomnika.v18i3.14313)																												|
+|[Transactions on Electrical and Electronic Materials (Trans. Electr. Electron. Mater. : TEEM](https://www.springer.com/journal/42341)											|							| NA		| 2.813	|			|	|		| 3		| [SP](https://link.springer.com/article/10.1007/s42341-023-00431-1)													|
+|[International Journal on Communications Antenna and Propagation (IRECAP)](https://www.praiseworthyprize.org/jsm/index.php?journal=irecap&page=index)							| 							| NA		| 2.6	| Q3EEE		| 	| 		|		| [SP](https://www.praiseworthyprize.org/jsm/index.php?journal=irecap&page=article&op=view&path%5B%5D=26502)			|
+|[International Journal of Information Technology](https://www.springer.com/journal/41870)																						|							| NA		| 2.6	| 			| 	|		| 3		| [SP](https://link.springer.com/article/10.1007/s41870-022-01069-7)													|
+|[International Journal of Engineering and Technology Innovation (IJETI)](https://ojs.imeti.org/index.php/IJETI/index)															| 							| NA		| 2.5	| Q3EEE		|	|		| 		| [SP](https://ojs.imeti.org/index.php/IJETI/article/view/8084)															|
+|[Bulletin of Electrical Engineering and Informatics](https://beei.org/index.php/EEI)																							| 							| NA		| 2.4	| 			|	|		|		| [SP](https://beei.org/index.php/EEI/article/view/1686)																|
+|[World Journal of Engineering](https://www.emerald.com/insight/publication/issn/1708-5284)																						|							| NA		| 2.4	| 			|	| 		| 		| [SP](https://www.emerald.com/insight/content/doi/10.1108/WJE-09-2020-0423/full/html)									|
+|[International Journal of Technology (IJTech)](https://ijtech.eng.ui.ac.id/about/1/about-the-journal)																			| 2087-2100(O) 2086-9614(P)	| NA		| 2.4	| Q2E(M)	| 	| 1000	| 		| [SP]()																												|
+|[Indonesian Journal of Electrical Engineering and Computer Science](https://ijeecs.iaescore.com)																				|							| NA		| 2.4	| 			| 	| 315	|		| [SP](https://ijeecs.iaescore.com/index.php/IJEECS/article/view/31535)													|
+|[Materials Today: Proceedings](https://www.sciencedirect.com/journal/materials-today-proceedings)																				|							| NA		| 2.3	| 			| 	|		| 11	| [SP](https://www.sciencedirect.com/science/article/abs/pii/S221478532300915X)											|
+|[Advanced Electromagnetics](https://aemjournal.org/index.php/AEM)																												|							| NA		| 2.2	| 			| 	| 		| 		| [SP]()																												|
+|[International Journal of System Assurance Engineering and Management](https://www.springer.com/journal/13198)																	|							| NA		| 2.018	| 			| 	| 		| 7		| [SP](https://link.springer.com/article/10.1007/s13198-022-01772-5)													|
+|[Journal of Communications](http://www.jocm.us/)																																| 1796-2021					| NA		| 1.9	| Q3EEE		|	| 400	| 		| [SP]()																												|
+|[Journal of Electrical Systems](http://journal.esrgroups.org/jes/index.php)																									|							| NA		| 1.8	| 			| 	| 		| 		| [SP](https://journal.esrgroups.org/jes/papers/17_3_8.pdf)																|
+|[International Journal of Electronics Letters](https://www.tandfonline.com/journals/tetl20)																					|							| NA		| 1.7	|			|	| 		| 		| 8[SP](https://www.tandfonline.com/doi/full/10.1080/21681724.2021.2001847)												|
+|[Progress In Electromagnetics Research C (PIER C)](https://www.jpier.org/issues/pierc.html)																					| 1937-8718					| NA		| 1.683	| 			| 	|		| 		| [SP]()																												|
+|[Jurnal Teknologi (Sciences and Engineering)](https://journals.utm.my/jurnalteknologi)																							| 							| NA		| 1.6	| Q3E(M)	|	|		| 		| [SP]()																												|
+|[EPJ Applied Metamaterials](https://epjam.edp-open.org/)																														| 2272-2394(O)				| NA		| 1.563	|			|	|		|		| [SP](https://doi.org/10.1051/epjam/2017010)																			|
+|[Journal of Advanced Dielectrics](https://www.worldscientific.com/worldscinet/jad)																								|							| NA		| 1.545	|			| 	| 		| 		| [SP](https://www.worldscientific.com/doi/10.1142/S2010135X1730002X)													|
+|[Journal of Microwaves, Optoelectronics and Electromagnetic Applications](https://submission.scielo.br/index.php/jmoea)														| 2179-1074					| NA		| 1.5	| 			| 	| 		| 		| [SP](https://www.scielo.br/j/jmoea/a/5RBXvnGygJNrS8LCHSCdFLJ/?lang=en)												|
+|[ELECTRICA](https://electricajournal.org/EN)																																	| 2619-9831(O)				| NA		| 1.5	| 			| 	| 		|		| [SP](https://electricajournal.org/en/design-and-analysis-of-printed-monopole-antenna-with-and-without-csrr-in-the-ground-plane-for-gsm-900-and-wi-fi-131060)|
+|[Journal of Shanghai Jiaotong University (Science)](https://www.springer.com/journal/12204)																					| 1007-1172 				| NA		| 1.4	| 			| 	| 		| 		| [SP]()																												|
+|[Journal of The Institution of Engineers (India): Series B](https://www.springer.com/journal/40031)																			|							| NA		| 1.333	| 			| 	| 		| 20	| [SP](https://link.springer.com/article/10.1007/s40031-023-00879-y)													|
+|[International Journal of Systems, Control and Communications](https://www.inderscience.com/jhome.php?jcode=ijscc)																|							| NA		| 1.3	|			|	|		|		| [SP](https://www.inderscience.com/info/inarticle.php?artid=116750)													|
+|[Progress In Electromagnetics Research - B (PIER-B)](https://www.jpier.org/issues/pierb.html)																					| 1937-6472					| NA		| 1.257	| Q3CMP		|	|		|		| [SP]()																												|	
+|[Australian Journal of Electrical and Electronics Engineering](https://www.tandfonline.com/action/journalInformation?journalCode=tele20)										|							| NA		| 1.2	|			| 	|		| 		| [SP](https://www.tandfonline.com/doi/full/10.1080/1448837X.2021.2024317)												|
+|[Journal of Engineering Science and Technology (JESTEC)](https://jestec.taylors.edu.my/)																						|							| NA		| 1.2	| 			|   | 		| 		| [SP]()																												|
+|[Engineering and Applied Science Research (EASR)](https://ph01.tci-thaijo.org/index.php/easr/index)																			|							| NA		| 1.2	| 			| 	| 		| 		| [SP](https://ph01.tci-thaijo.org/index.php/easr/article/view/194562)													|
+|[Radioelectronics and Communications Systems](https://www.springer.com/journal/11976)																							|							| NA		| 1.198	| 			| 	| 		| 		| [SP](https://link.springer.com/article/10.3103/S0735272722070032)														|
+|[Tikrit Journal of Engineering Sciences](https://tj-es.com/)																													| 2312-7589(O) 1813-162X(P)	| NA		| 1.1	|			|	|		|		| [SP](https://doi.org/10.25130/tjes.27.2.05)																			|
+|[International Journal on Electrical Engineering and Informatics](https://www.ijeei.org/aims.html)																				|							| NA		| 1.096	| Q3E(M)	| 	|		| 		| [SP](https://www.ijeei.org/docs-2045506084634d1b557800c.pdf)															|
+ |[Progress In Electromagnetics Research Letters (PIER-L)](https://www.jpier.org/issues/pierl.html)																				| 1937-6480					| NA		| 1.036	|			| 	| 		| 		| [SP]()																												|
+|[Progress In Electromagnetics Research - M (PIER-M)](https://www.jpier.org/issues/pierm.html)																					| 1937-8726					| NA		| 1.009	|			|	| 		| 		| [SP]()																												|
+|[ECTI Transactions on Electrical Engineering, Electronics, and Communications (ECTI-EEC)](https://ph02.tci-thaijo.org/index.php/ECTI-EEC/index)								|							| NA		| 1		|			|	|		|		| [SP](https://ph02.tci-thaijo.org/index.php/ECTI-EEC/article/view/242065)												|
+|[International Journal of Wireless and Mobile Computing](https://www.inderscience.com/jhome.php?jcode=ijwmc)																	|							| NA		| 0.9	|			|	|		|		| [SP](https://www.inderscience.com/info/inarticle.php?artid=120018)													|
+|[International Journal of Reconfigurable and Embedded Systems (IJRES)](https://ijres.iaescore.com/index.php/IJRES)																| 							| NA		| 0.8	|			|	| 		| 		| [SP]()																												|
+|[PRZEGLÄ„D ELEKTROTECHNICZNY](http://pe.org.pl/index.php?lang=1)																												| 0033-2097					| NA		| 0.561	| 			|	| 		| 		| [SP](http://pe.org.pl/abstract_pl.php?nid=12630&lang=1)																|
+|[International Journal of Microwave and Optical Technology (IJMOT)](https://www.ijmot.com/) 																					| 1553-0396					| NA		| 0.394	| 			|	| 120	| 		| [SP]()																												|
+|[International Journal of Ultra Wideband Communications and Systems](https://www.inderscience.com/jhome.php?jcode=ijuwbcs)														| 1758-7298(O) 1758-728X(P)	| NA		| 0.3	| 			|	|		|		| [SP](https://www.inderscience.com/info/inarticle.php?artid=126776)													|
+|[The Journal of Engineering (JoE)](https://ietresearch.onlinelibrary.wiley.com/journal/20513305)																				|							| NA		| 0.3	| 			| 	|		|		| [SP]()																												|
+|[Solid State Technology](http://solidstatetechnology.us/index.php/JSST)																										|							| NA		| 0.3	| 			|	|		|		| [SP](http://solidstatetechnology.us/index.php/JSST/article/view/4051)													|
+|[Turkish Journal of Computer and Mathematics Education (TURCOMAT)](https://turcomat.org/index.php/turkbilmat)																	| 1309-4653(O)				| NA		| 0.3	| 			| 	| 		| 		| [SP](https://turcomat.org/index.php/turkbilmat/article/view/3984)														|
+|[Indian Journal of Radio & Space Physics (IJRSP)](https://nopr.niscpr.res.in/handle/123456789/64)																				| 0975-105X(O) 0367-8393(P)	| NA		| 0.2	| Q4PA(M)	|	|		| 		| [SP](https://nopr.niscpr.res.in/handle/123456789/57449)																|
+|[Microwave Review](https://www.mtt-serbia.org.rs/microwave_review)																												|							| NA		| 0.1	|			|	|		|		| [SP](https://www.mtt-serbia.org.rs/mwr-issues/185-microwave-review-vol-28-no-2-december-2022)							|
+|[Journal of Theoretical and Applied Information Technology](https://www.jatit.org)																								| 1817-3195(O)1992-8645(P)	| NA		| 		| 			| 	| 		| 		| [SP](http://www.jatit.org/volumes/Vol96No7/22Vol96No7.pdf)															|
+|[Engineering Reports](https://onlinelibrary.wiley.com/journal/25778196)																										| 2577-8196(O)				| NA		| Coming| 			| 	| 		| 		| [SP](https://onlinelibrary.wiley.com/doi/10.1002/eng2.12388)															|
+|[International Journal of Advances in Microwave Technology (IJAMT)](https://www.ijamt.com/index.php/ijamt/index)																| 							| NA		| NA	| 			| 	| 		| 		| [SP](https://www.ijamt.com/index.php/ijamt/article/view/155)															|
+|[WSEAS TRANSACTIONS ON COMMUNICATIONS](https://wseas.com/journals/communications/indexing.php)																					|							| NA		| NA	| 			|	| 		| 		| [SP](https://wseas.com/journals/articles.php?id=7843)																	|
+|[Iraqi Journal of Computers, Communications, Control, and Systems Engineering (IJCCCE)](https://ijccce.uotechnology.edu.iq/)													| 							| NA		| NA	| 			| 	| 		| 		| [SP](https://ijccce.uotechnology.edu.iq/article_110463.html)															|
+|[Tabriz Journal of Electrical Engineering (TJEE)](https://tjee.tabrizu.ac.ir/?lang=en)																							|							| NA		| NA	| 			| 	|		| 		| [SP](https://tjee.tabrizu.ac.ir/article_12587.html?lang=en)															|
+|[Transactions of the Indian National Academy of Engineering](https://www.springer.com/journal/41403)																			| 2662-5423(O) 2662-5415(P)	| NA		| NA	| 			|	| 		| 6		| [SP](https://link.springer.com/article/10.1007/s41403-021-00213-2)													|
+|[Scientia Iranica Transactions D: Computer Science & Engineering and Electrical Engineering](https://scientiairanica.sharif.edu/issue_1263_1271.html)							|							|			| 		| 			| 	| 		| 		| [SP](https://scientiairanica.sharif.edu/article_22361.html)															|
+|[IEICE Communications Express](https://www.ieice.org/cs_r/eng/comex/)																											| 2187-0136(O)				| 			| 		| 			| 	| 		| 		| [SP](https://doi.org/10.1587/comex.2023XBL0025)																		|
+|[Journal of IKEEE](https://koreascience.kr/journal/JGGJB@.page)																												| 2288-243X(O) 1226-7244(P)	|			|		|			|	| 		| 		| [SP](https://doi.org/10.7471/ikeee.2018.22.3.793)																		|
+|[Electrical, Control and Communication Engineering](https://sciendo.com/journal/ECCE)																							| 2255-9159(O)				|			|		|			|	|		|		| [SP]()																												|
+
