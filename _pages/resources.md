@@ -6,6 +6,12 @@ date: 2023-06-11
 
 ---
 
+The journals can be divided into the different journal-level metrics:
+- [Impact Factor (IF)](https://en.wikipedia.org/wiki/Impact_factor), by Clarivate, based on the citations recorded in the [Web of Science](https://en.wikipedia.org/wiki/Web_of_Science) database. Here, journals with IF are <strong>[SCIE](https://en.wikipedia.org/wiki/Science_Citation_Index_Expanded)</strong>-indexed journals. SCIE used to be called SCI earlier.
+- [CiteScore (CS)](https://en.wikipedia.org/wiki/CiteScore), produced by Elsevier, based on the citations recorded in the Scopus database. Here, journals with CS belong to <strong>[Scopus](https://en.wikipedia.org/wiki/Scopus)</strong> database.
+- [Journal Citation Reports (JCR)](https://en.wikipedia.org/wiki/Journal_Citation_Reports), by Clarivate, based on the citations recorded in the Web of Science database.
+-  and [more](https://en.wikipedia.org/wiki/Citation_impact)
+
 
 <strong>Warnings:</strong>
 
@@ -16,7 +22,7 @@ date: 2023-06-11
 
 If you have read the above warnings, let’s move on.
 
-<strong>Shortcuts:</strong>\
+<strong>Abbreviations:</strong>\
 IF: Impact Factor, CS:  CiteScore\
 Q: Quartiles (M:Multidisciplinary, EEE:Electrical and Electronic Engineering, E:Engineering, CMP:Condensed Matter Physics, PA:Physics and Astronomy)\
 OA: Open Access mode (H:Hybrid, O:Only OA, N: No OA)\
@@ -78,6 +84,7 @@ NA: Concerned information is not applicable
 [Wireless Networks](https://www.springer.com/journal/11276) 																													| 							| 2.701 	| 		| 			|	| 		| 15	| [SP](https://link.springer.com/article/10.1007/s11276-023-03354-0)													|
 |[Journal of Infrared, Millimeter, and Terahertz Waves](https://www.springer.com/journal/10762) 																				| 							| 2.647 	| 		| 			|	| 		| 2		| [SP](https://link.springer.com/article/10.1007/s10762-023-00913-6)													|
 |[Multimedia Tools and Applications](https://www.springer.com/journal/11042) 																									|							| 2.577		| 3.158	|			|	|		| 15	| [SP](https://link.springer.com/article/10.1007/s11042-023-14628-2)													|
+|[Chinese Optics Letters](https://opg.optica.org/col/home.cfm)																													| 1671-7694					| 2.560 	| 		|			|	|		|		| [SP](https://opg.optica.org/abstract.cfm?uri=col-15-1-010013)															|
 |[EURASIP Journal on Wireless Communications and Networking](https://jwcn-eurasipjournals.springeropen.com/)																	|							| 2.559		| 3.386	| 			|	|		|		| [SP](https://jwcn-eurasipjournals.springeropen.com/articles/10.1186/s13638-019-1386-4)								|
 |[Frontiers of Information Technology & Electronic Engineering](https://www.springer.com/journal/11714)																			| 2095-9184					| 2.545		|		| 			|	|		| 10	| [SP](https://link.springer.com/article/10.1631/FITEE.2200473)															|
 |[Journal of Optics](https://iopscience.iop.org/journal/2040-8986)																												|							| 2.077		| 5		|			|	|		| 2		| [SP](https://iopscience.iop.org/article/10.1088/2040-8986/ab70f6/meta)												|
@@ -114,7 +121,7 @@ NA: Concerned information is not applicable
 |[Journal of Circuits, Systems and Computers](https://www.worldscientific.com/page/jcsc/aims-scope)																				|							| 1.333		| 1.416	|			|	|		|		| [SP](https://www.worldscientific.com/doi/10.1142/S0218126621502984)													|
 |[Tsinghua Science & Technology](https://dc.tsinghuajournals.com/tsinghua-science-and-technology/)																				|							| 1.328		|		|			|	|		|		| [SP](https://dc.tsinghuajournals.com/tsinghua-science-and-technology/vol24/iss2/11/)									|
 |[Analog Integrated Circuits and Signal Processing](https://www.springer.com/journal/10470)																						|							| 1.321		|		|			|	|		| 7		| [SP](https://link.springer.com/article/10.1007/s10470-023-02156-w)													|
-|[Microwave and Optical Technology Letters](https://onlinelibrary.wiley.com/journal/10982760)																					|							| 1.311		| 3		|			|	|		| 6		| [SP]()																												|
+|[Microwave and Optical Technology Letters](https://onlinelibrary.wiley.com/journal/10982760)																					| 1098-2760(O) 0895-2477(P)	| 1.311		| 3		|			|	|		| 6		| [SP]()																												|
 |[Journal of Modern Optics](https://www.tandfonline.com/journals/tmop20)																										|							| 1.293		| 3.1	|			|	|		| 5		| [SP](https://www.tandfonline.com/doi/full/10.1080/09500340.2020.1759713)												|
 |[International Journal of Antennas and Propagation](https://www.hindawi.com/journals/ijap/)																					|							| 1.244		| 2.8	| 			|	| 2375	|		| [SP]()																												|
 |[Sādhanā](https://www.springer.com/journal/12046)																																|							| 1.214		|		|			|	|		| 6		| [SP]()																												|

@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ravi Kumar Arya"
 title_separator          : "-"
 name                     : &name "Ravi Kumar Arya"
-description              : &description "Distinguished Professor"
+description              : &description "Distinguished Professor, CUST"
 url                      : https://RaviKumarArya.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "RaviKumarArya/RaviKumarArya.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ravi Kumar Arya"
   avatar           : "profile.png"
-  bio              : "Distinguished Professor"
+  bio              : "Distinguished Professor, CUST"
   location         : "China"
   employer         :
   pubmed           : 
