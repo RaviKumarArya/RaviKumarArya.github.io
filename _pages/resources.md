@@ -32,6 +32,14 @@ SP: Sample antenna paper in the concerned journal\
 NA: Concerned information is not applicable
 
 
+
+
+
+
+
+
+
+
 | Journal Name																																									|ISSN						|IF			|CS		|Q			|OA	| APC	| FD	|SP																														|
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|-----------|-------|-----------|---|-------|-------|-----------------------------------------------------------------------------------------------------------------------|
 | [Advanced Materials](https://onlinelibrary.wiley.com/journal/15214095)																										| 1521-4095					| 32.086	| 47.7	|  	 		| 	|		| 1.5	| [SP](https://doi.org/10.1002/adma.202302474)																			|
@@ -59,6 +67,7 @@ NA: Concerned information is not applicable
 | [The European Physical Journal Plus](https://www.springer.com/journal/13360)																									|							| 3.758		| 3.687	|  	 		| 	| 		| 5		| [SP](https://doi.org/10.1140/epjp/s13360-020-00567-6)																	|
 | [PLoS ONE ](https://journals.plos.org/plosone/s/journal-information)																											|							| 3.752		| 3.752	| Q1 M		| 	| 		| 		| [SP](https://doi.org/10.1371/journal.pone.0268867)																	|
 | [IEEE Transactions on Circuits and Systems II: Express Briefs](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8920)													|							| 3.691 	| 6		|  	 		| 	| 		| 		| [SP]()																												|
+| [IEEE Journal of Microwaves](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9171629)																				| 2692-8388(O)				| 3.599 	| 4.333	|  	 		| O	| 1950	| 		| [SP](https://doi.org/10.1109/JMW.2022.3202626)																		|
 | [Fractal and Fractional](https://www.mdpi.com/journal/fractalfract)																											|							| 3.577		| 2.8	| Q1		| 	| 		| 		| [SP](https://www.mdpi.com/2504-3110/6/10/551/htm)																		|
 | [Micromachines](https://www.mdpi.com/journal/micromachines)																													|							| 3.523		| 		| Q2		| 	| 		| 		| [SP](https://www.mdpi.com/2072-666X/13/10/1658)																		|
 | [IEEE Access](https://ieeeaccess.ieee.org)																																	|							| 3.476		| 		|  	 		| 	| 1950 	| 		| [SP]()																												|
@@ -137,6 +146,7 @@ NA: Concerned information is not applicable
 |[Indian Journal of Pure & Applied Physics (IJPAP)](https://nopr.niscpr.res.in/handle/123456789/63)																				|							| 0.846		|		|			|	|		|		| [SP](https://nopr.niscpr.res.in/handle/123456789/22877)																|
 |[Journal of Electrical Engineering The Journal of Slovak University of Technology](https://sciendo.com/journal/JEE) [JEEEC](http://iris.elf.stuba.sk/JEEEC/)					|							| 0.840		| 2.0	|			|	|		|		| [SP](https://sciendo.com/article/10.2478/jee-2023-0019)																|							
 |[Advances in Electrical and Computer Engineering](http://www.aece.ro/current.php)																								|							| 0.825		| 2.5	|			|	| €300	| 11	| [SP]()																												|
+|[The Applied Computational Electromagnetics Society Journal (ACES)](https://journals.riverpublishers.com/index.php/ACES/)														|							| 0.724		| 		|			|	|		|		| [SP](https://doi.org/10.13052/2022.ACES.J.371201)																		|
 |[Defence Science Journal](https://publications.drdo.gov.in/ojs/index.php/dsj/index)																							|							| 0.707		| 0.848	|			|	|		|		| [SP]()																												|
 |[Wulfenia](https://www.multidisciplinarywulfenia.org/)																															| 1561-882X					| 0.686		|		|			|	|		|		| [SP](http://www.multidisciplinarywulfenia.org/auto/index.php/archive/part/19/10/2/?currentVol=19&currentissue=10#)	|
 |[Romanian Journal of Information Science and Technology (ROMJIST)](https://www.romjist.ro/index.html)																			|							| 0.643		| 1.095	|			|	|		|		| [SP]()																												|
