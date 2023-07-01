@@ -2,7 +2,7 @@
 title: "Antenna-related Journals"
 permalink: /resources/
 author_profile: true
-date: 2023-06-11
+date: 2023-07-01
 
 ---
 
@@ -49,6 +49,7 @@ NA: Concerned information is not applicable
 | [Optics & Laser Technology](https://www.sciencedirect.com/journal/optics-and-laser-technology)																				|							| 4.939		| 8.3 	|  	 		| 	| 		| 1.7	| [SP](https://doi.org/10.1016/j.ijleo.2023.170982)																		|
 | [IEEE Transactions on Antennas and Propagation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8)																	|							| 4.824		| 9.4	| Q1		| 	| 		| 		| [SP]()																												|
 | [Ain Shams Engineering Journal](https://www.journals.elsevier.com/ain-shams-engineering-journal)																				|							| 4.79		| 6.9	|  	 		| 	| 860	| 2.4	| [SP](https://doi.org/10.1016/j.asej.2023.102182)																		|
+| [Computer Physics Communications](https://www.sciencedirect.com/journal/computer-physics-communications)																																			| 1879-2944(O) 0010-4655(P)	| 4.717		| 9.4	|	 		|	|		| 1.2	| [SP](https://doi.org/10.1016/j.cpc.2023.108741)																		|
 | [Current Applied Physics](https://www.sciencedirect.com/journal/current-applied-physics) 																						|							| 4.6 		| 2.856 |			|	|		| 3		| [SP](https://doi.org/10.1016/j.cap.2022.08.007) [SP2](https://doi.org/10.1016/j.cap.2023.04.006)						|
 | [Results in Physics](https://www.sciencedirect.com/journal/results-in-physics)																								|							| 4.565		| 7.6	|  	 		| 	| 		| 		| [SP](https://doi.org/10.1016/j.rinp.2023.106332)																		|
 | [Computer Systems Science and Engineering](https://www.techscience.com/journal/csse)																							|							| 4.397		| 1.9	|  	 		| 	| 		| 		| [SP](https://www.techscience.com/csse/v46n2/51628)																	|
@@ -61,7 +62,7 @@ NA: Concerned information is not applicable
 | [Optics Express](https://opg.optica.org/oe/home.cfm)																															| 1094-4087					| 3.833		| 		|  	 		| 	| 		| 4		| [SP](https://doi.org/10.1364/OE.412315)																				|
 | [Flexible and Printed Electronics](https://iopscience.iop.org/journal/2058-8585)																								|							| 3.768		| 		|  	 		|	| 3075	| 5		| [SP](https://doi.org/10.1088/2058-8585/accd05)																		|
 | [The European Physical Journal Plus](https://www.springer.com/journal/13360)																									|							| 3.758		| 3.687	|  	 		| 	| 		| 5		| [SP](https://doi.org/10.1140/epjp/s13360-020-00567-6)																	|
-| [Optical Materials](https://www.sciencedirect.com/journal/optical-materials)																									| 							|  3.754 	| 5.6 	|	 		| H	|		| 3.4	| [SP](https://doi.org/10.1016/j.optmat.2018.09.015)																	|
+| [Optical Materials](https://www.sciencedirect.com/journal/optical-materials)																									| 							| 3.754 	| 5.6 	|	 		| H	|		| 3.4	| [SP](https://doi.org/10.1016/j.optmat.2018.09.015)																	|
 | [PLoS ONE ](https://journals.plos.org/plosone/s/journal-information)																											|							| 3.752		| 3.752	| Q1 M		| 	| 		| 		| [SP](https://doi.org/10.1371/journal.pone.0268867)																	|
 | [IEEE Transactions on Circuits and Systems II: Express Briefs](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8920)													|							| 3.691 	| 6		|  	 		| 	| 		| 		| [SP]()																												|
 | [IEEE Journal of Microwaves](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9171629)																				| 2692-8388(O)				| 3.599 	| 4.333	|  	 		| O	| 1950	| 		| [SP](https://doi.org/10.1109/JMW.2022.3202626)																		|
@@ -233,10 +234,9 @@ NA: Concerned information is not applicable
 | [Tabriz Journal of Electrical Engineering (TJEE)](https://tjee.tabrizu.ac.ir/?lang=en)																						|							| NA		| NA	| 			| 	|		| 		| [SP](https://tjee.tabrizu.ac.ir/article_12587.html?lang=en)															|
 | [Transactions of the Indian National Academy of Engineering](https://www.springer.com/journal/41403)																			| 2662-5423(O) 2662-5415(P)	| NA		| NA	| 			|	| 		| 6		| [SP](https://link.springer.com/article/10.1007/s41403-021-00213-2)													|
 | [Mathematical and Computational Applications](https://www.mdpi.com/journal/mca)																								|  2297-8747 				| NA		| NA	|			|	|		|		| [SP](https://doi.org/10.3390/mca28010004)																				|
+| [IOSR Journal of Electrical and Electronics Engineering(IOSR-JEEE)](https://www.iosrjournals.org/iosr-jeee.html)																| 2278-1676(O) 2320-3331(P) | NA		| NA 	|	 		|	|		| 		| [](https://www.iosrjournals.org/iosr-jeee/Papers/Vol11%20Issue%201/Version-1/I011118590.pdf)							|
 | [Scientia Iranica Transactions D: Computer Science & Engineering and Electrical Engineering](https://scientiairanica.sharif.edu/issue_1263_1271.html)							|							|			| 		| 			| 	| 		| 		| [SP](https://scientiairanica.sharif.edu/article_22361.html)															|
 | [IEICE Communications Express](https://www.ieice.org/cs_r/eng/comex/)																											| 2187-0136(O)				| 			| 		| 			| 	| 		| 		| [SP](https://doi.org/10.1587/comex.2023XBL0025)																		|
 | [Journal of IKEEE](https://koreascience.kr/journal/JGGJB@.page)																												| 2288-243X(O) 1226-7244(P)	|			|		|			|	| 		| 		| [SP](https://doi.org/10.7471/ikeee.2018.22.3.793)																		|
 | [Electrical, Control and Communication Engineering](https://sciendo.com/journal/ECCE)																							| 2255-9159(O)				|			|		|			|	|		|		| [SP]()																												|
-| 																																												| 							| 			| 		|	 		|	|		| 		| 																														|
-| 																																												| 							| 			| 		|	 		|	|		| 		| 																														|
 | 																																												| 							| 			| 		|	 		|	|		| 		| 																														|
