@@ -6,6 +6,12 @@ date: 2023-07-01
 
 ---
 
+
+
+
+
+
+
 The journals can be divided into different journal-level metrics:
 - [Impact Factor (IF)](https://en.wikipedia.org/wiki/Impact_factor), by Clarivate, based on the citations recorded in the [Web of Science](https://en.wikipedia.org/wiki/Web_of_Science) database. Here, journals with IF are <strong>[SCIE](https://en.wikipedia.org/wiki/Science_Citation_Index_Expanded)</strong>-indexed journals. SCIE used to be called SCI earlier.
 - [CiteScore (CS)](https://en.wikipedia.org/wiki/CiteScore), produced by Elsevier, based on the citations recorded in the Scopus database. Here, journals with CS belong to <strong>[Scopus](https://en.wikipedia.org/wiki/Scopus)</strong> database.
