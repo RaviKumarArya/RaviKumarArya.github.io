@@ -5,10 +5,9 @@ collection: resources
 order_number: 40
 ---
 
-First, read [warnings](/research/warnings) before proceeding further.
-Refer to [abbreviations](/research/abbreviations) to understand the meaning of abbreviations used in this website.
-For general information on different journal-related terms, refer [information](/research/information) page.
-
+- First, read [warnings](/research/warnings) before proceeding further.
+- Refer to [abbreviations](/research/abbreviations) to understand the meaning of abbreviations used in this website.
+- For general information on different journal-related terms, refer to [information](/research/information) page.
 
 | Conference Name																																								|  Month    | Alternate website
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|---------------------------------------------------|
