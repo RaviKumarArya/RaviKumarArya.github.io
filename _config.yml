@@ -17,7 +17,7 @@ repository               : "RaviKumarArya/RaviKumarArya.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : false
+future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
@@ -73,7 +73,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : "google-universal" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
@@ -248,6 +248,15 @@ defaults:
   - scope:
       path: ""
       type: resources
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+# _students
+  - scope:
+      path: ""
+      type: students
     values:
       layout: single
       author_profile: true
