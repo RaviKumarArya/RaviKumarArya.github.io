@@ -1,8 +1,8 @@
 ---
-title: "3D‐printed planar graded index lenses"
+title: "3D‐Printed Planar Graded Index Lenses"
 collection: publications
-permalink: /publication/2016-3D‐printed
-date: 2016-01-01
+permalink: /publication/2016-10-3D‐Printed
+date: 2016-10-01
 venue: 'IET Microwaves, Antennas & Propagation'
 paperurl: 'https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/iet-map.2016.0013'
 link: 'https://doi.org/10.1049/iet-map.2016.0013'

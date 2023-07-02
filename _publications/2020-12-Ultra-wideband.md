@@ -1,8 +1,8 @@
 ---
-title: "Ultra-wideband flat metamaterial GRIN lenses assisted with additive manufacturing technique"
+title: "Ultra-Wideband Flat Metamaterial GRIN Lenses Assisted with Additive Manufacturing Technique"
 collection: publications
-permalink: /publication/2020-Ultra-wideband
-date: 2020-01-01
+permalink: /publication/2020-12--Ultra-wideband
+date: 2020-12-01
 venue: 'IEEE Transactions on Antennas and Propagation'
 paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9301257'
 link: 'https://doi.org/10.1109/TAP.2020.3044586'
