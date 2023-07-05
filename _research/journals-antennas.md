@@ -9,6 +9,9 @@ order_number: 30
 - Refer to [abbreviations](/research/abbreviations) to understand the meaning of abbreviations used in this website.
 - For general information on different journal-related terms, refer to [information](/research/information) page.
 
+
+
+
 | Journal Name																																									|ISSN						|IF			|CS		|Q			|OA	| APC	| FD	|SP																														|
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|-----------|-------|-----------|---|-------|-------|-----------------------------------------------------------------------------------------------------------------------|
 | [Advanced Materials](https://onlinelibrary.wiley.com/journal/15214095)																										| 1521-4095					| 32.086	| 47.7	|  	 		| 	|		| 1.5	| [SP](https://doi.org/10.1002/adma.202302474)																			|
@@ -90,7 +93,7 @@ order_number: 30
 | [Applied Optics](https://opg.optica.org/ao/journal/ao/about.cfm)																												| 2155-3165(O) 2155-3165(P)	| 1.905		|		| 			|	|		| 7		| [SP]()																												|
 | [Annals of Telecommunications](https://www.springer.com/journal/12243)																										|							| 1.901		|		| Q2 EEE	| 	|		| 5		| [SP](https://link.springer.com/article/10.1007/s12243-022-00911-0)													|
 | [Iranian Journal of Science and Technology, Transactions of Electrical Engineering](https://www.springer.com/journal/40998/)													|							| 1.890		|		|			|	|		| 5		| [SP](https://link.springer.com/article/10.1007/s40998-022-00579-1)													|
-| [International Journal of Communication Systems](https://onlinelibrary.wiley.com/journal/10991131)																			|							| 1.882		| 3.7	|			|	|		| 6		| [SP](https://onlinelibrary.wiley.com/doi/10.1002/dac.5130)															|
+| [International Journal of Communication Systems](https://onlinelibrary.wiley.com/journal/10991131)																			|							| 1.882		| 3.7	|			|	|		| 6		| [SP](https://onlinelibrary.wiley.com/doi/10.1002/dac.5130) [SP2](https://doi.org/10.1002/dac.5557)															|
 | [IETE Journal of Research](https://www.tandfonline.com/journals/tijr20)																										|							| 1.877		| 2.9	|			|	|		| 11	| [SP](https://www.tandfonline.com/doi/full/10.1080/03772063.2022.2162983)												|
 | [Journal of Electromagnetic Engineering and Science](http://www.jees.kr/)																										|							| 1.866		|		|			|	| 450	|		| [SP]()																												|
 | [Journal of Microwave Power and Electromagnetic Energy](https://www.tandfonline.com/loi/tpee20)																				|							| 1.850		| 2.7	|			|	|		|		| [SP](https://www.tandfonline.com/doi/full/10.1080/08327823.2022.2107572)												|
@@ -131,6 +134,7 @@ order_number: 30
 | [The Applied Computational Electromagnetics Society Journal (ACES)](https://journals.riverpublishers.com/index.php/ACES/)														|							| 0.724		| 		|			|	|		|		| [SP](https://doi.org/10.13052/2022.ACES.J.371201)																		|
 | [Defence Science Journal](https://publications.drdo.gov.in/ojs/index.php/dsj/index)																							|							| 0.707		| 0.848	|			|	|		|		| [SP]()																												|
 | [Wulfenia](https://www.multidisciplinarywulfenia.org/)																														| 1561-882X					| 0.686		|		|			|	|		|		| [SP](http://www.multidisciplinarywulfenia.org/auto/index.php/archive/part/19/10/2/?currentVol=19&currentissue=10#)	|
+| [Revue roumaine des sciences techniques](http://revue.elth.pub.ro/) 																											| 0035-4066 				| 0.670		| 0.9	|	 		|	|		| 		| [SP](http://revue.elth.pub.ro/index.php?action=details&id=756)														|
 | [Romanian Journal of Information Science and Technology (ROMJIST)](https://www.romjist.ro/index.html)																			|							| 0.643		| 1.095	|			|	|		|		| [SP]()																												|
 | [Journal of Engineering Research (JER)](https://kuwaitjournals.org/jer/index.php/JER/about)																					|							| 0.62		| 1.494	| Q3 E(M)	|	|		|		| [SP](https://kuwaitjournals.org/jer/index.php/JER/article/view/10719)													|
 | [Frequenz Journal of RF-Engineering and Telecommunications](https://www.degruyter.com/journal/key/freq/html)																	|							| 0.595		| 1.7	|			|	|		|		| [SP]()																												|
