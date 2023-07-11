@@ -13,4 +13,3 @@ The journals can be divided into different journal-level metrics:
 - [Journal Citation Reports (JCR)](https://en.wikipedia.org/wiki/Journal_Citation_Reports), by Clarivate, based on the citations recorded in the Web of Science database.
 -  and [more](https://en.wikipedia.org/wiki/Citation_impact)
 
-

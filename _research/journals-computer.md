@@ -20,6 +20,8 @@ order_number: 50
 | [Journal of Intelligent & Fuzzy Systems](https://www.iospress.com/catalog/journals/journal-of-intelligent-fuzzy-systems)														| 1875-8967(O)				| 1.737 	| 2.9	|			|	|		|		| [SP]()																												|
 | [Information Technology and Control ](https://www.itc.ktu.lt/index.php/ITC) 																									| 2335-884X(O) 1392-124X(P)	| 1.1		| 2.5 	|	 		| O	| 550	| 		| [SP]()																												|
 | [Journal of Web Engineering](https://journals.riverpublishers.com/index.php/JWE/index)																						| 1544-5976(O) 1540-9589(P))| 0.617		| 0.886	|  	 		| H	| 990	| 		| [SP]()																												|
+| [Theory of Computing Systems](https://www.springer.com/journal/224)																											| 1433-0490(O) 1432-4350(P)	| 0.5		|		|			|	|		| 7		| 																														|
+| [The Mathematical Intelligencer](https://www.springer.com/journal/283/)																										| 1866-7414(O) 0343-6993(P)	| 0.4		| 		|  	 		| O	| 		| 2.5	| [SP]()																												|
 |																																												|							|			|		|			|	|		|		| 																														|
 | [International Journal of Interactive Multimedia and Artificial Intelligence](https://www.ijimai.org/journal/)																| 1989-1660(O)				|			|		|			| H	|		|		| [SP]()																												|
 | [Visual Informatics](https://www.sciencedirect.com/journal/visual-informatics)																								| 2468-502X(O)  2543-2656(P)|			| 4.8	|			|	|		| 11.4	| [SP]()																												|
@@ -28,6 +30,7 @@ order_number: 50
 | [Journal of Information and Telecommunication](https://www.tandfonline.com/toc/tjit20/current)																				| 2475-1847(O) 2475-1839(P)	| NA		| 3.1	|			|	|		| 0.8	| [SP]()																												|
 | [Evolutionary Intelligence](https://www.springer.com/journal/12065)																											| 1864-5917(O) 1864-5909(P)	| NA		| 2.957	|			| H	|		| 3		| [SP]()																												|
 | [International Journal of Computers and Applications](https://www.tandfonline.com/toc/tjca20/current)																			| 1925-7074(O)  1206-212X(P)| NA		| 2.3	|			| H	|		| 0.1	| [SP]()																												|
+| [Scientific Programming](https://www.hindawi.com/journals/sp/)																												| 1875-919X(O) 1058-9244(P)	| NA		| 1.7	|			|	| 2000	|		| 																														|
 | [International Journal on Informatics Visualization](https://joiv.org/index.php/joiv)																							| 2549-9904(O) 2549-9610(P)	| NA		| 1.2	| Q4CS(M)	| O	| 		|		| [SP]()																												|
 | [Journal of Computational Methods in Sciences and Engineering](https://www.iospress.com/catalog/journals/journal-of-computational-methods-in-sciences-and-engineering)		| 1875-8983(O) 1472-7978(P)	| NA 		| 0.7	|			| H | 2150	|		| [SP]()																												|
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|-----------|-------|-----------|---|-------|-------|-----------------------------------------------------------------------------------------------------------------------|

@@ -10,9 +10,7 @@ order_number: 30
 - For general information on different journal-related terms, refer to [information](/research/information) page.
 
 
-
-
-| Journal Name																																									|ISSN						|IF			|CS		|Q			|OA	| APC	| FD	|SP																														|
+| [Journal Name](https://en.wikipedia.org/wiki/Scientific_journal) 																																									|[ISSN](https://en.wikipedia.org/wiki/ISSN)						|[IF](https://en.wikipedia.org/wiki/Impact_factor)			| [CS](https://en.wikipedia.org/wiki/CiteScore)		|[Quartile](https://spubl.az/en/blog/q1-q2-q3-q4-quartiles-of-scientific-journals)			|[OA](https://en.wikipedia.org/wiki/Open_access)	| [APC](https://en.wikipedia.org/wiki/Article_processing_charge)	| FD	|SP																														|
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|-----------|-------|-----------|---|-------|-------|-----------------------------------------------------------------------------------------------------------------------|
 | [Advanced Materials](https://onlinelibrary.wiley.com/journal/15214095)																										| 1521-4095					| 32.086	| 47.7	|  	 		| 	|		| 1.5	| [SP](https://doi.org/10.1002/adma.202302474)																			|
 | [Advanced Functional Materials](https://onlinelibrary.wiley.com/journal/16163028)																								| 1616-3028(O)				| 19.924	| 26.6	|	 		|	|		| 1.5	| [SP](https://doi.org/10.1002/adfm.202302753)																			|
