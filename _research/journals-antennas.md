@@ -9,14 +9,17 @@ order_number: 30
 - Refer to [abbreviations](/research/abbreviations) to understand the meaning of abbreviations used in this website.
 - For general information on different journal-related terms, refer to [information](/research/information) page.
 
-| [Journal Name](https://en.wikipedia.org/wiki/Scientific_journal)	|[ISSN](https://en.wikipedia.org/wiki/ISSN)	| [IF](https://en.wikipedia.org/wiki/Impact_factor)		| [CS](https://en.wikipedia.org/wiki/CiteScore)	| [OA](https://en.wikipedia.org/wiki/Open_access)	| [APC](https://en.wikipedia.org/wiki/Article_processing_charge)													| FD	|Sample Papers	|
+| [Journal Name](https://en.wikipedia.org/wiki/Scientific_journal)	| [ISSN](https://en.wikipedia.org/wiki/ISSN)	| [IF](https://en.wikipedia.org/wiki/Impact_factor)		| [CS](https://en.wikipedia.org/wiki/CiteScore)	| [OA](https://en.wikipedia.org/wiki/Open_access)	| [APC](https://en.wikipedia.org/wiki/Article_processing_charge)													| [FD](https://academia.stackexchange.com/questions/198008/7-days-submission-to-first-decision-median)	| Sample Papers	|
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|-------|-------|---|-------|-------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [Advanced Materials](https://onlinelibrary.wiley.com/journal/15214095)																										| 1521-4095(O) 0935-9648(P)	| 27.4	| 43	| H	| 6070	| 2		| [SP](https://doi.org/10.1002/adma.202302474)																															|
+| [Light: Science & Applications](https://www.nature.com/lsa/)																													| 2047-7538(O)				| 20.6	|		| O	| 4190	| 1		| [SP1](https://doi.org/10.1038/s41377-024-01629-5) [SP2](https://doi.org/10.1038/s41377-024-01587-y) 																	|
 | [Advanced Functional Materials](https://onlinelibrary.wiley.com/journal/16163028)																								| 1616-3028(O) 1616-301X(P)	| 18.5	| 29.5	| H	| 5790	| 2		| [SP](https://doi.org/10.1002/adfm.202302753)																															|
+| [Advanced Science](https://onlinelibrary.wiley.com/journal/21983844)																											| 2198-3844(O) 2198-3844(P)	| 14.3	| 18.9	| O | 6730	| 3		| [SP](https://doi.org/10.1002/advs.202407824)																															|
 | [Engineering](https://www.sciencedirect.com/journal/engineering) 																												| 2096-0026(O) 2095-8099(P)	| 10.1	| 19.2	| O	| 1300	| 1		| [SP](https://doi.org/10.1016/j.eng.2021.10.017)																														|
 | [Proceedings of the National Academy of Sciences (PNAS)](https://www.pnas.org)																								| 1091-6490(O) 0027-8424(P)	| 9.4	| 19.0 	| H	| 750	| 2		| [SP](https://doi.org/10.1073/pnas.1423294112)																															|
 | [IEEE Internet of Things Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488907)																			| 2327-4662(O) 2372-2541(P)	| 8.2	| 17.6	| H	| 2495	|		| [SP](https://doi.org/10.1109/JIOT.2023.3280628)																														|
 | [Advanced Optical Materials](https://onlinelibrary.wiley.com/journal/21951071)																								| 2195-1071(O) 2195-1071(P)	| 8.0	| 13.7	| H	| 4880	| 3		| [SP](https://doi.org/10.1002/adom.202300347)																															|
+| [Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence)								| 1873-6769(O) 0952-1976(P)	| 7.5	| 9.6	| H	| 3110	| 2		| https://doi.org/10.1016/j.engappai.2024.109381																																										|
 | [Computer Physics Communications](https://www.sciencedirect.com/journal/computer-physics-communications) 																		| 1879-2944(O) 0010-4655(P)	| 7.2	| 12.1	| H	| 3680	| 1.5	| [SP1](https://doi.org/10.1016/j.cpc.2023.108741) [SP2](https://doi.org/10.1016/j.cpc.2022.108517)																		|
 | [IEEE Journal of Microwaves](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9171629)																				| 2692-8388(O)				| 6.9 	| 10.7	| O	| 1995	| 		| [SP](https://doi.org/10.1109/JMW.2022.3202626)																														|
 | [Photonics Research](https://www.researching.cn/pr) 																															| 2327-9125(O)				| 6.6	| 		| H	| 2500	| 		| [SP](https://doi.org/10.1364/PRJ.477381) [SP2](https://doi.org/10.1364/PRJ.476466)																					|
@@ -34,6 +37,7 @@ order_number: 30
 | [Results in Physics](https://www.sciencedirect.com/journal/results-in-physics)																								| 2211-3797(O)				| 4.4	| 8.7	| O	| 1870	| 0.5	| [SP1](https://doi.org/10.1016/j.rinp.2023.106332) [SP2](https://doi.org/10.1016/j.rinp.2024.107712)																	|
 | [Progress in Additive Manufacturing](https://link.springer.com/journal/40964)																									| 2363-9520(O) 2363-9512(P)	| 4.4	| 		| H	| 		| 2		|  [SP](https://doi.org/10.1007/s40964-023-00411-0)																														|
 | [Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences](https://royalsocietypublishing.org/journal/rsta)							| 1471-2962(O) 1364-503X	| 4.3	| 9.3	| H	| 2795	| 		| [SP1](https://doi.org/10.1098/rsta.2014.0356) [SP2](https://doi.org/10.1098/rsta.2017.0453)																			|
+| [IEEE Sensors Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7361)																							| 1558-1748(O) 1530-437X(P)	| 4.3	| 7.7	| H	| 2495	| 		| [SP](https://doi.org/10.1109/JSEN.2013.2242464) 																														|
 | [IEEE Antennas and Propagation Magazine](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=74)																			| 1558-4143(O) 1045-9243(P)	| 4.2	| 7.0	| H	| 2995	| 		| [SP](https://doi.org/10.1109/MAP.2024.3393350)																														|
 | [IEEE Transactions on Microwave Theory and Techniques](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=22)															| 1557-9670(O) 0018-9480(P)	| 4.1	| 8.6 	| H	| 2495	| 		| [SP](https://doi.org/10.1109/TMTT.2024.3381981)																														|
 | [Frontiers of Optoelectronics](https://www.springer.com/journal/12200) 																										| 2095-2767(O)				| 4.1	| 		| O	| 		| 		| [SP](https://doi.org/10.1007/s12200-021-1220-6)																														|
@@ -183,6 +187,7 @@ order_number: 30
 | [Materials Today: Proceedings](https://www.sciencedirect.com/journal/materials-today-proceedings)																				| 2214-7853(O)				| NA	| 4.9	| H	| 200	| 2		| [SP](https://doi.org/10.1016/j.matpr.2023.02.349)																														|
 | [Waves in Random and Complex Media](https://www.tandfonline.com/journals/twrm20)																								| 1745-5049(O) 1745-5030(P)	| NA	| 4.8	| H	| 		| 3		| [SP](https://doi.org/10.1080/17455030.2024.2415931)																													|
 | [Procedia Computer Science](https://www.sciencedirect.com/journal/procedia-computer-science)																					| 1877-0509(O)				| NA	| 4.5	| O	| 		| 2.5	| [SP](https://doi.org/10.1016/j.procs.2020.04.137)																														|
+| [IEEE Journal on Miniaturization for Air and Space Systems](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=8253411)												| 2576-3164(O)				| NA	| 4.4	| H	| 2495	| 		| [SP](https://doi.org/10.1109/JMASS.2024.3447457)																														|
 | [World Journal of Engineering](https://www.emerald.com/insight/publication/issn/1708-5284)																					| 1708-5284					| NA	| 4.2	| H	| 3874	| 5		| [SP1](https://doi.org/10.1108/WJE-09-2020-0423) [SP2](https://doi.org/10.1108/WJE-08-2022-0333)																		|
 | [International Journal of Electrical and Computer Engineering (IJECE)](https://ijece.iaescore.com/index.php/IJECE)															| 2722-2578(O) 2088-8708(P)	| NA	| 4.1	| 	|		| 		| [SP1](http://doi.org/10.11591/ijece.v12i4.pp3808-3819) [SP2](http://doi.org/10.11591/ijece.v14i6.pp6401-6410)															|
 | [TELKOMNIKA](http://journal.uad.ac.id/index.php/TELKOMNIKA/index)																												| 2302-9293(O) 1693-6930(P)	| NA	| 4.0	| 	| 		| 		| [SP1](http://doi.org/10.12928/telkomnika.v22i6.25958) [SP2](http://doi.org/10.12928/telkomnika.v22i6.25718)															|
@@ -238,5 +243,11 @@ order_number: 30
 | [IOSR Journal of Electrical and Electronics Engineering(IOSR-JEEE)](https://www.iosrjournals.org/iosr-jeee.html)																| 2278-1676(O) 2320-3331(P) | NA	| NA	| 	| 		| 		| [SP](https://www.iosrjournals.org/iosr-jeee/Papers/Vol11%20Issue%201/Version-1/I011118590.pdf)																		|
 | [IETE Journal of Education](https://www.tandfonline.com/journals/tije20)																										| 0974-7338(O)				| NA	| NA	| H	| 		| 2		| [SP](https://doi.org/10.1080/09747338.2021.2012275)																													| 
 | [Journal of Electronics and Electrical Engineering](https://ojs.wiserpub.com/index.php/JEEE) 																					| 2972-3280(P)				| NA	| NA	| 	| 		| 		| [SP](https://doi.org/10.37256/jeee.3220244748)																														|
+| 																																												| 							| 		|		| 	| 		| 		| 																																										|
 
 
+
+
+
+
+ 
