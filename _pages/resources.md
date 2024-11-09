@@ -4,8 +4,8 @@ permalink: /resources/
 author_profile: true
 ---
 
-## [Antenna-related Journals](/research/journals-antennas)
+## [Antenna-related Journals](/resources/journals-antennas)
 
-## [Antenna-related Conferences](/research/conferences-antennas)
+## [Antenna-related Conferences](/resources/conferences-antennas)
 
-## [Computer-related Journals](/research/journals-computer)
+[//]: ## [Computer-related Journals](/resources/journals-computer)
