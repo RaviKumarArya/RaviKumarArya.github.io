@@ -3,8 +3,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Research"
-    url: /research/
+#  - title: "Research"
+#    url: /research/
 
   - title: "Resources"
     url: /resources/
@@ -12,14 +12,17 @@ main:
   - title: "Software"
     url: /software/
 
-  - title: "Talks"
-    url: /talks/    
+#  - title: "Talks"
+#    url: /talks/    
 
  # - title: "Portfolio"
  #   url: /portfolio/
 
-  - title: "Students"
-    url: /students/  
+  - title: "Awards"
+    url: /awards/ 
+
+#  - title: "Students"
+#    url: /students/  
 
 #  - title: "Teaching"
 #    url: /teaching/    
