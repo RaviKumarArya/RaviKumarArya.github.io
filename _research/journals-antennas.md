@@ -9,7 +9,7 @@ order_number: 30
 - Refer to [abbreviations](/research/abbreviations) to understand the meaning of abbreviations used in this website.
 - For general information on different journal-related terms, refer to [information](/research/information) page.
 
-| [Journal Name](https://en.wikipedia.org/wiki/Scientific_journal)	| [ISSN](https://en.wikipedia.org/wiki/ISSN)	| [IF](https://en.wikipedia.org/wiki/Impact_factor)		| [CS](https://en.wikipedia.org/wiki/CiteScore)	| [OA](https://en.wikipedia.org/wiki/Open_access)	| [APC](https://en.wikipedia.org/wiki/Article_processing_charge)													| [FD](https://academia.stackexchange.com/questions/198008/7-days-submission-to-first-decision-median)	| Sample Papers	|
+| [Journal Name](https://en.wikipedia.org/wiki/Scientific_journal)	| [ISSN](https://en.wikipedia.org/wiki/ISSN)	| [IF](https://en.wikipedia.org/wiki/Impact_factor)		| [CS](https://en.wikipedia.org/wiki/CiteScore)	| [OA](https://en.wikipedia.org/wiki/Open_access)	| [APC](https://en.wikipedia.org/wiki/Article_processing_charge)	| [FD](https://academia.stackexchange.com/questions/198008/7-days-submission-to-first-decision-median)	| Sample Papers	|
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|-------|-------|---|-------|-------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [Advanced Materials](https://onlinelibrary.wiley.com/journal/15214095)																										| 1521-4095(O) 0935-9648(P)	| 27.4	| 43	| H	| 6070	| 2		| [SP](https://doi.org/10.1002/adma.202302474)																															|
 | [Light: Science & Applications](https://www.nature.com/lsa/)																													| 2047-7538(O)				| 20.6	|		| O	| 4190	| 1		| [SP1](https://doi.org/10.1038/s41377-024-01629-5) [SP2](https://doi.org/10.1038/s41377-024-01587-y) 																	|
@@ -24,6 +24,7 @@ order_number: 30
 | [IEEE Journal of Microwaves](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9171629)																				| 2692-8388(O)				| 6.9 	| 10.7	| O	| 1995	| 		| [SP](https://doi.org/10.1109/JMW.2022.3202626)																														|
 | [Photonics Research](https://www.researching.cn/pr) 																															| 2327-9125(O)				| 6.6	| 		| H	| 2500	| 		| [SP](https://doi.org/10.1364/PRJ.477381) [SP2](https://doi.org/10.1364/PRJ.476466)																					|
 | [Alexandria Engineering Journal](https://www.sciencedirect.com/journal/alexandria-engineering-journal)																		| 2090-2670(O) 1110-0168(P)	| 6.2 	| 11.2	| O	| 1500	| 11.5	| [SP](https://doi.org/10.1016/j.aej.2024.06.029)																														|
+| [IEEE Transactions on Vehicular Technology](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=25) 																		| 1939-9359(O) 0018-9545(P)	| 6.1	| 13.0	| H	| 2495	| 		| [SP1](https://doi.org/10.1109/TVT.2019.2920520) [SP2](https://doi.org/10.1109/TVT.2021.3072556)																		|
 | [Ain Shams Engineering Journal](https://www.journals.elsevier.com/ain-shams-engineering-journal)																				| 2090-4495(O) 2090-4479(P)	| 6.0	| 10.8	| O	| 1000	| 22	| [SP1](https://doi.org/10.1016/j.asej.2023.102182) [SP2](https://doi.org/10.1016/j.asej.2024.102923)																	|
 | [Results in Engineering](https://www.sciencedirect.com/journal/results-in-engineering)																						| 2590-1230(O)				| 6.0	| 5.8	| O	| 1650	| 1		| [SP](https://doi.org/10.1016/j.rineng.2024.103130)																													|
 | [Progress In Electromagnetics Research](https://www.jpier.org/)																												| 1559-8985(O) 1070-4698(P)	| 5.7	| 		| O	| 400	| 		| [SP](https://doi.org/10.2528/PIER13051313)																															|
@@ -31,6 +32,7 @@ order_number: 30
 | [Tsinghua Science & Technology](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5971803)																				| 1007-0214(O)				| 5.2	| 12.1	|	|		|		| [SP](https://doi.org/0.1016/S1007-0214(09)70102-6)																													|
 | [Measurement](https://www.sciencedirect.com/journal/measurement)																												| 1873-412X(O) 0263-2241(P)	| 5.2	| 10.2	| H	| 3650 	| 1		| [SP1](https://doi.org/10.1016/j.measurement.2024.116027) [SP2](https://doi.org/10.1016/j.measurement.2024.114736)														|
 | [Engineering Science and Technology, an International Journal (JESTECH)](https://www.sciencedirect.com/journal/engineering-science-and-technology-an-international-journal)	| 2215-0986(O)				| 5.1	| 11.2	| O	| 1400	| 2		| [SP](https://doi.org/10.1016/j.jestch.2023.101440)																													|
+| [Journal of Computational Design and Engineering](https://academic.oup.com/jcde)																								| 2288-5048(O)				| 4.8	| 8.7	| O	| 2050	| 6		| [SP1](https://doi.org/10.1016/j.jcde.2017.04.001) [SP2](https://doi.org/10.1016/j.jcde.2017.06.004) 																	|
 | [IEEE Transactions on Antennas and Propagation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8)																	| 1558-2221(O) 0018-926X(P)	| 4.6	| 10.4	| H	| 2495 	| 		| [SP](https://doi.org/10.1109/TAP.2020.3044586)																														|
 | [Optics & Laser Technology](https://www.sciencedirect.com/journal/optics-and-laser-technology)																				| 1879-2545(O) 0030-3992(P)	| 4.6	| 8.5	| H	| 3090	| 2		| [SP](https://doi.org/10.1016/j.optlastec.2023.110046)																													|
 | [Chinese Journal of Physics](https://www.sciencedirect.com/journal/chinese-journal-of-physics)																				| 2309-9097(O) 0577-9073(P)	| 4.6	| 8.5	| H	| 2000	| 14	| [SP](https://doi.org/10.1016/j.cjph.2022.03.002)																														|
@@ -246,8 +248,3 @@ order_number: 30
 | 																																												| 							| 		|		| 	| 		| 		| 																																										|
 
 
-
-
-
-
- 
