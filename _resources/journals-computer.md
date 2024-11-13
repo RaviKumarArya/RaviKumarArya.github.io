@@ -1,7 +1,7 @@
 ---
 title: "Computer-related Journals"
 layout: single-portfolio
-collection: research
+collection: resources
 order_number: 50
 ---
 
@@ -121,7 +121,7 @@ https://link.springer.com/article/10.1007/s10845-024-02483-3?utm_source=rct_cong
 
 
 
-
+https://www.sciencedirect.com/journal/computers-in-biology-and-medicine
 
 
 

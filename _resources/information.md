@@ -1,7 +1,7 @@
 ---
 title: "Information"
 layout: single-portfolio
-collection: research
+collection: resources
 order_number: 30
 ---
 
