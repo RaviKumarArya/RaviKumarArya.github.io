@@ -162,7 +162,7 @@ Updated on November, 2024
 | [International Journal of Antennas and Propagation](https://www.hindawi.com/journals/ijap/)																					| 1687-5877(O) 1687-5869(P)	| 1.2	| 3.1	| O	| 2375	| 5		| [SP](https://doi.org/10.1155/2024/9935054)																															|
 | [Journal of Modern Optics](https://www.tandfonline.com/journals/tmop20)																										| 1362-3044(O) 0950-0340(P)	| 1.2	| 2.9	| H	| 		| 4		| [SP](https://doi.org/10.1080/09500340.2020.1759713)																													|
 | [Turkish Journal of Electrical Engineering and Computer Sciences](https://journals.tubitak.gov.tr/elektrik/)																	| 1303-6203(O) 1300-0632(P)	| 1.2	|		| O	| 0		|		| [SP](https://doi.org/10.55730/1300-0632.3991)																															|
-| [Analog Integrated Circuits and Signal Processing](https://www.springer.com/journal/10470)																					| 1573-1979(O) 0925-1030(P)	| 1.2	|		| H	| 3190	| 13	| [SP1](https://doi.org/10.1007/s10470-023-02156-w) [SP2](https://doi.org/10.1007/s10470-024-02293-w)																		|
+| [Analog Integrated Circuits and Signal Processing](https://www.springer.com/journal/10470)																					| 1573-1979(O) 0925-1030(P)	| 1.2	|		| H	| 3190	| 13	| [SP1](https://doi.org/10.1007/s10470-023-02156-w) [SP2](https://doi.org/10.1007/s10470-024-02293-w)																	|
 | [IET Microwaves, Antennas and Propagation](https://ietresearch.onlinelibrary.wiley.com/journal/17518733)																		| 1751-8733(O) 1751-8725(P)	| 1.1	| 4.3	| O	| 2470	| 5		| [SP](https://doi.org/10.1049/mia2.12506)																																|
 | [International Journal of Electronics](https://www.tandfonline.com/journals/tetn20)																							| 1362-3060(O) 0020-7217(P)	| 1.1	| 3.3	| H	| 		| 1.5	| [SP](https://doi.org/10.1080/00207217.2022.2129814)																													|
 | [Optical Engineering](https://www.spiedigitallibrary.org/journals/optical-engineering)																						| 1560-2303(O) 0091-3286(P)	| 1.1	| 2.7	| H	| 1675	|		| [SP](https://doi.org/10.1117/1.OE.56.1.010901) [SP2](https://doi.org/10.1117/1.OE.59.4.047103) [SP3](https://doi.org/10.1117/1.OE.59.4.047103)						|
@@ -189,6 +189,7 @@ Updated on November, 2024
 | [Electromagnetics](https://www.tandfonline.com/journals/uemg20)																												| 1532-527X(O) 0272-6343(P)	| 0.6	| 1.6	| H	|		| 2		| [SP](https://doi.org/10.1080/02726343.2022.2099361)																													|
 | [IEICE Transactions on Information and Systems](https://www.jstage.jst.go.jp/browse/transinf/-char/en)																		| 1745-1361(O) 0916-8532(P)	| 0.6	| 1.4	| 	| 	 	| 		| [SP](https://doi.org/10.1587/transele.2023ECP5059)																													|
 | [Journal of Engineering Research (JER)](https://kuwaitjournals.org/jer/index.php/JER/about)																					| 2307-1885(O) 2307-1877(P)	| 0.6	| 1.3	| 	|		|		| [SP](https://doi.org/10.36909/jer.10719)																																|
+| [Advances in Radio Science](https://www.advances-in-radio-science.net/) 																										| 1684-9973(O)				| 0.6	| 0.9	| O	| 35**	| 		| [SP](https://doi.org/10.5194/ars-19-9-2021)																															|
 | [Wulfenia](https://www.multidisciplinarywulfenia.org/)																														| 1561-882X(O)				| 0.6	|		| O	|		|		| [SP](http://www.multidisciplinarywulfenia.org/auto/index.php/archive/part/19/10/2/?currentVol=19&currentissue=10#)													|
 | [Romanian Journal of Information Science and Technology (ROMJIST)](https://www.romjist.ro/index.html)																			| 1453-8245					| 0.6	| 		|	|		|		| [SP](https://www.romjist.ro/full-texts/paper644.pdf)																													|
 | [Facta Universitatis - series: Electronics and Energetics](https://casopisi.junis.ni.ac.rs/index.php/FUElectEnerg/index)														| 2217-5997(O) 0353-3670(P)	| 0.6	| 		| O	| 		| 		| [SP](https://doi.org/10.2298/FUEE2304589J)																															|
@@ -279,8 +280,7 @@ Updated on November, 2024
 | [Journal of Electronics and Electrical Engineering](https://ojs.wiserpub.com/index.php/JEEE) 																					| 2972-3280(P)				| NA	| NA	| 	| 		| 		| [SP1](https://doi.org/10.37256/jeee.3220244748) [SP2](https://doi.org/10.37256/jeee.3120244636)																		|
 | [Journal of Techniques](https://journal.mtu.edu.iq/index.php/MTU/article/view/2596) 																							| 2708-8383(O) 1818-653X(P)	| NA	| NA	| O	| 0		| 		| [SP](https://doi.org/10.51173/jt.v6i4.2596)																															|
 
-
-
+** per page
 
 
 
