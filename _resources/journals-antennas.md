@@ -32,7 +32,7 @@ Updated on November, 2024
 | [Photonics Research](https://www.researching.cn/pr) 																															| 2327-9125(O)				| 6.6	| 		| H	| 2500	| 		| [SP](https://doi.org/10.1364/PRJ.477381) [SP2](https://doi.org/10.1364/PRJ.476466)																					|
 | [Composites Communications](https://www.sciencedirect.com/journal/composites-communications)																					| 2452-2139(O)				| 6.5	| 12.1	| H	| 3790	| 1		| [SP](https://doi.org/10.1016/j.coco.2024.101973)																														|
 | [Alexandria Engineering Journal](https://www.sciencedirect.com/journal/alexandria-engineering-journal)																		| 2090-2670(O) 1110-0168(P)	| 6.2 	| 11.2	| O	| 1500	| 11.5	| [SP](https://doi.org/10.1016/j.aej.2024.06.029)																														|
-| [IEEE Transactions on Vehicular Technology](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=25) 																		| 1939-9359(O) 0018-9545(P)	| 6.1	| 13.0	| H	| 2495	| 		| [SP1](https://doi.org/10.1109/TVT.2019.2920520) [SP2](https://doi.org/10.1109/TVT.2021.3072556)																		|
+| [IEEE Transactions on Vehicular Technology](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=25) 																		| 1939-9359(O) 0018-9545(P)	| 6.1	| 13.0	| H	| 2495	| 		| [SP1](https://doi.org/10.1109/TVT.2019.2920520) [SP2](https://doi.org/10.1109/TVT.2021.3072556) [SP3](https://doi.org/10.1109/TVT.2025.3525645)						|
 | [Ain Shams Engineering Journal](https://www.journals.elsevier.com/ain-shams-engineering-journal)																				| 2090-4495(O) 2090-4479(P)	| 6.0	| 10.8	| O	| 1000	| 22	| [SP1](https://doi.org/10.1016/j.asej.2023.102182) [SP2](https://doi.org/10.1016/j.asej.2024.102923)																	|
 | [Results in Engineering](https://www.sciencedirect.com/journal/results-in-engineering)																						| 2590-1230(O)				| 6.0	| 5.8	| O	| 1650	| 1		| [SP1](https://doi.org/10.1016/j.rineng.2024.103130) [SP2](https://doi.org/10.1016/j.rineng.2024.102466)																|
 | [Progress In Electromagnetics Research](https://www.jpier.org/)																												| 1559-8985(O) 1070-4698(P)	| 5.7	| 		| O	| 400	| 		| [SP](https://doi.org/10.2528/PIER13051313)																															|
@@ -85,6 +85,7 @@ Updated on November, 2024
 | [IEEE Transactions on Dielectrics and Electrical Insulation](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=94)														| 1558-4135(O) 1070-9878(P)	| 2.9	| 6.0	| H	| 2495	| 		| [SP](https://doi.org/10.1109/TDEI.2023.3289134)																														|
 | [Nano Communication Networks](https://www.sciencedirect.com/journal/nano-communication-networks)																				| 1878-7797(O) 1878-7789(P)	| 2.9	| 6.0	| H	| 2260	| 1.5	| [SP](https://doi.org/10.1016/j.nancom.2021.100378) [SP2](https://doi.org/10.1016/j.nancom.2019.05.003)																|
 | [Advanced Theory and Simulations](https://onlinelibrary.wiley.com/journal/25130390)																							| 2513-0390(O) 2513-0390(P)	| 2.9	| 5.5	| H	| 4430	| 		| [SP](https://doi.org/10.1002/adts.202100604)																															|
+| [Digital Signal Processing](https://www.sciencedirect.com/journal/digital-signal-processing) 																					| 1095-4333(O) 1051-2004(P)	| 2.9	| 5.3	| H	| 2580	| 1		| [SP](https://doi.org/10.1016/j.dsp.2025.104992)																														|
 | [Discover Applied Sciences](https://link.springer.com/journal/42452)																											| 3004-9261(O)				| 2.8	| 7.0	| O	| 1790	| 		|[SP](https://doi.org/10.1007/s42452-024-05886-2) 																														|
 | [Radiation Physics and Chemistry](https://www.sciencedirect.com/journal/radiation-physics-and-chemistry) 																		| 1879-0895(O) 0969-806X(P)	| 2.8 	| 5.6 	| H	| 3360	| 1.5	| [SP](https://doi.org/10.1016/j.radphyschem.2023.110998)																												|
 | [Journal of Materials Science: Materials in Electronics](https://link.springer.com/journal/10854)																				| 1573-482X(O) 0957-4522(P)	| 2.8	|  		| H	| 3690	| 1.5	| [SP](https://doi.org/10.1007/s10854-023-10080-y) 																														|
@@ -281,7 +282,6 @@ Updated on November, 2024
 | [Journal of Techniques](https://journal.mtu.edu.iq/index.php/MTU/article/view/2596) 																							| 2708-8383(O) 1818-653X(P)	| NA	| NA	| O	| 0		| 		| [SP](https://doi.org/10.51173/jt.v6i4.2596)																															|
 
 ** per page
-
 
 
 
