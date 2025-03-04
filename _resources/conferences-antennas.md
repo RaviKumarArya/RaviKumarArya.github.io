@@ -24,12 +24,10 @@ order_number: 40
 | [Cross Strait Quad-Regional Radio Science and Wireless Technology Conference (CSRWTC)](https://ieeexplore.ieee.org/xpl/conhome/1800508/all-proceedings)													| China				| November 21-24, 2025	| [CSRWTC](https://www.myconf.com.cn/CSRSWTC2025/home)							|
 | [URSI International Symposium on Electromagnetic Theory (EMTS)](https://ieeexplore.ieee.org/xpl/conhome/1800169/all-proceedings)																			| Italy				| June 23-27, 2025		| [EMTS](https://www.emts2025.it/)												|
 | [European Conference on Antennas and Propagation (EuCAP)](https://ieeexplore.ieee.org/xpl/conhome/1002123/all-proceedings)																				| Sweden			| March 30-Apr. 4, 2025	| [EuCAP](https://www.eucap2025.org/)											|
-| [International Conference on Microwave and Millimeter Wave Technology (ICMMT)](https://ieeexplore.ieee.org/xpl/conhome/1000449/all-proceedings)															| China				| May 19-22, 2025		| [ICMMT](http://www.em-conf.com/icmmt2025)										|
 | [International Conference on Electromagnetics in Advanced Applications (ICEAA)](https://ieeexplore.ieee.org/xpl/conhome/1001761/all-proceedings)															| Italy				| September 8-12, 2025	| [ICEAA](https://www.iceaa-offshore.org/call-for-papers/)						|
 | [International Conference on Microwave, Antennas & Circuits (ICMAC)](https://ieeexplore.ieee.org/xpl/conhome/1845164/all-proceedings)																		| Pakistan			| April 16-17, 2025		| [ICMAC](https://icmac.seecs.edu.pk/)											|
 | [International Conference on Microwave and Millimeter Wave Technology (ICMMT)](https://ieeexplore.ieee.org/xpl/conhome/1000449/all-proceedings)															| China				| May 19-22, 2025		| [ICMMT](http://www.em-conf.com/icmmt2025)										|
 | [International Conference on Radar, Antenna, Microwave, Electronics, and Telecommunications (ICRAMET)](https://ieeexplore.ieee.org/xpl/conhome/1810205/all-proceedings)									| Jordan			| February 7-8, 2025	| [ICRAMET](https://iiter.org/conf/index.php?id=2705934)						|
-| [International Conference on Signal Processing and Communication (ICSC)](https://ieeexplore.ieee.org/xpl/conhome/1803337/all-proceedings)																	| India				| February 20-22, 2025	| [ICSC](https://www.jiit.ac.in/jiit/icsc/)										|
 | [IEEE MTT-S International Microwave Bio Conference ((IMBioC)](https://ieeexplore.ieee.org/xpl/conhome/1820544/all-proceedings)																			| Taiwan			| April 15-17, 2025		| [IMBioC](https://www.imbioc2025.org/)											|
 | [IEEE MTT-S International Microwave Workshop Series on Advanced Materials and Processes for RF and THz Applications (IMWS-AMP)](https://ieeexplore.ieee.org/xpl/conhome/1809505/all-proceedings)			| China				| November				| [IMWS-AMP](http://www.em-conf.com/imws-amp2024/)								| 
 | [IEEE India Conference (INDICON)](https://ieeexplore.ieee.org/xpl/conhome/1002060/all-proceedings)																										| India				| November/December		| [INDICON](http://ieeeindicon.org/)											|
@@ -39,6 +37,7 @@ order_number: 40
 | [IEEE International Workshop on Electromagnetics: Applications and Student Innovation Competition (IEEE iWEM)](https://ieeexplore.ieee.org/xpl/conhome/1800488/all-proceedings)							| Hong Kong			| August 4-6, 2025		| [iWEM](https://www.iwem2025.org/)												|
 | [IEEE International Wireless Symposium (IWS)](https://ieeexplore.ieee.org/xpl/conhome/1802849/all-proceedings)																							| China				| May 19-22, 2025		| [IWS](http://www.em-conf.com/iws2025/)										|
 | [IEEE Latin American Conference on Antennas & Propagation (LACAP)](https://lacap2024.org/)																												| Variable			| December				| [LACAP](https://lacap2024.org/)												|
+| [International Conference on Microwave, Antenna and Communication](https://ieeexplore.ieee.org/xpl/conhome/1849850/all-proceedings)																		| India				| June 27-29, 2025		| [MAC](https://www.mac2025.org/)												|
 | [IEEE Microwaves, Antennas and Propagation Conference (MAPCON)](https://ieeexplore.ieee.org/xpl/conhome/10463756/proceeding)																				| India				| December 14-18, 2025	| [MAPCON](https://ieeemapcon.org/)												|
 | [International Conference on Numerical Electromagnetic Modeling and Optimization for RF, Microwave, and Terahertz Applications (NEMO)](https://ieeexplore.ieee.org/xpl/conhome/1804844/all-proceedings)	| China				| Jul. 29-Aug. 1, 2025	| [NEMO](http://www.em-conf.com/nemo2025)										|
 | [IEEE International Symposium on Phased Array Systems and Technology(PAST)](https://ieeexplore.ieee.org/xpl/conhome/1000557/all-proceedings)																| USA				| Will be in 2026		| [PAST](https://www.ieee-array.org/)											|
@@ -53,5 +52,6 @@ order_number: 40
 
 
 Other resources:
-* [IEEE upcoming conferences](https://ieeeaps.org/conferences/upcoming-conferences)
+* [IEEE upcoming conferences](https://conferences.ieee.org/conferences_events/conferences/search?q=*&subsequent_q=&date=all&from=&to=&region=all&country=all&pos=0&sortorder=desc&sponsor=&sponsor_type=all&state=all&field_of_interest=all&sortfield=relevance)
+* [IEEE APS upcoming conferences](https://ieeeaps.org/conferences/upcoming-conferences)
 * [EM-CONF Conference Services](http://www.em-conf.com/em-conf/index.html)
