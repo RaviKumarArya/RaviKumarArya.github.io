@@ -4,9 +4,9 @@ permalink: /resources/
 author_profile: true
 ---
 
-## 📚 [Antenna-related Journals](/resources/journals-antennas)
+## 📚 [Journals](/resources/journals-antennas)
 
-## 📚 [Antenna-related Conferences](/resources/conferences-antennas)
+## 📚 [Conferences](/resources/conferences-antennas)
 
 
 Other useful resources:
