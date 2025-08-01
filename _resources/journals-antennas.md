@@ -121,7 +121,7 @@ order_number: 30
 | [IETE Technical Review](https://www.tandfonline.com/action/journalInformation?journalCode=titr20)																					| 0974-5971(O) 0256-4602(P)	| 2.5	| 5.7	| H	| 		| 1.5	| [SP](https://doi.org/10.1080/02564602.2023.2255544)																													|
 | [Journal of Magnetism and Magnetic Materials](https://www.sciencedirect.com/journal/journal-of-magnetism-and-magnetic-materials)													| 1873-4766(O) 0304-8853(P)	| 2.5 	| 5.3	| H	| 3120	| 3		| [SP1](https://doi.org/10.1016/j.jmmm.2023.170940) [SP2](https://doi.org/10.1016/j.jmmm.2025.173089)																	|
 | [Photonics and Nanostructures - Fundamentals and Applications](https://www.sciencedirect.com/journal/photonics-and-nanostructures-fundamentals-and-applications)					| 1569-4429(O) 1569-4410(P)	| 2.5	| 5.0	| H	| 2660	| 1		| [SP](https://doi.org/10.1016/j.photonics.2022.101092)																													|
-| [Applied Physics A Materials Science & Processing](https://www.springer.com/journal/339)																							| 1432-0630(O) 0947-8396(P)	| 2.5	| 		| H	| 3590	| 3		| [SP1](https://doi.org/10.1007/s00339-016-0676-5) [SP2](https://doi.org/10.1007/s00339-023-07001-5)																	|
+| [Applied Physics A Materials Science & Processing](https://www.springer.com/journal/339)																							| 1432-0630(O) 0947-8396(P)	| 2.5	| 		| H	| 3590	| 3		| [SP1]https://doi.org/10.1007/s00339-025-08759-6 [SP2](https://doi.org/10.1007/s00339-016-0676-5) [SP3](https://doi.org/10.1007/s00339-023-07001-5)																	|
 | [Current Applied Physics](https://www.sciencedirect.com/journal/current-applied-physics) 																							| 1878-1675(O) 1567-1739(P) | 2.4	| 4.8 	| H	| 2640	| 1.5	| [SP](https://doi.org/10.1016/j.cap.2022.08.007) [SP2](https://doi.org/10.1016/j.cap.2024.09.004)																		|
 | [IEEE Transactions on Components, Packaging and Manufacturing Technology](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5503870)										| 2156-3985(O) 2156-3950(P)	| 2.3	| 4.7	| H	| 2645	| 		| [SP](https://doi.org/10.1109/TCPMT.2024.3355364)																														|
 | [EURASIP Journal on Wireless Communications and Networking](https://jwcn-eurasipjournals.springeropen.com/)																		| 1687-1499(O)				| 2.3	| 		| H	|		| 3.5	| [SP](https://doi.org/10.1186/s13638-019-1386-4)																														|
@@ -311,23 +311,3 @@ order_number: 30
 | [IETE Journal of Education](https://www.tandfonline.com/journals/tije20)																											| 0974-7338(O)				| NA	| NA	| H	| 		| 2		| [SP](https://doi.org/10.1080/09747338.2021.2012275)																													| 
 | [Journal of Electronics and Electrical Engineering](https://ojs.wiserpub.com/index.php/JEEE) 																						| 2972-3280(P)				| NA	| NA	| 	| 		| 		| [SP1](https://doi.org/10.37256/jeee.3220244748) [SP2](https://doi.org/10.37256/jeee.3120244636)																		|
 | [Journal of Techniques](https://journal.mtu.edu.iq/index.php/MTU/article/view/2596) 																								| 2708-8383(O) 1818-653X(P)	| NA	| NA	| O	| 0		| 		| [SP](https://doi.org/10.51173/jt.v6i4.2596)																															|
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
