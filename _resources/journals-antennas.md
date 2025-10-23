@@ -48,7 +48,6 @@ order_number: 30
 | [Defence Technology](https://www.sciencedirect.com/journal/defence-technology) 																									| 2214-9147(O) 2096-3459(P)	| 5.9	| 10.0	| O	| 0		| 1		| [SP](https://doi.org/10.1016/j.dt.2025.05.012)																														|
 | [Vehicular Communications](https://www.sciencedirect.com/journal/vehicular-communications) 																						| 2214-210X(O) 2214-2096(P)	| 5.8	| 12.7	| H	| 2890	| 1		| [SP](https://doi.org/10.1016/j.vehcom.2025.100893)																													|
 | [Progress In Electromagnetics Research](https://www.jpier.org/)																													| 1559-8985(O) 1070-4698(P)	| 5.7	| 		| O	| 400	| 		| [SP](https://doi.org/10.2528/PIER13051313)																															|
-| [IEEE Transactions on Instrumentation and Measurement](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=19) 																| 1557-9662(O) 0018-9456(P)	| 5.6	| 9		| H	| 2495	| 		| [SP](https://doi.org/10.1109/TIM.2019.2914131) 																														|
 | [Chinese Journal of Aeronautics](https://www.sciencedirect.com/journal/chinese-journal-of-aeronautics)																			| 2588-9230(O) 1000-9361(P)	| 5.3	| 10.0	| O	| 2000	| 6		| [SP](https://doi.org/10.1016/j.cja.2024.07.031)																														|
 | [APL Materials](https://pubs.aip.org/aip/apm)																																		| 2166-532X					| 5.3	| 		| O	| 2750 	| 		| [SP](https://doi.org/10.1063/5.0204501)																																|
 | [Tsinghua Science & Technology](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5971803)																					| 1007-0214(O)				| 5.2	| 12.1	|	|		|		| [SP](https://doi.org/0.1016/S1007-0214(09)70102-6)																													|
@@ -222,6 +221,7 @@ order_number: 30
 | [IEICE TRANSACTIONS on Fundamentals of Electronics, Communications and Computer Sciences](https://www.ieice.org/eng/for_readers/foecc.html)										| 1745-1337					| 0.4	| 1.1	|	| 		| 		| [SP](https://doi.org/10.1587/transfun.E100.A.194)																														|
 | [Journal of Communications Technology and Electronics](https://www.springer.com/journal/11487)																					| 1555-6557(O) 1064-2269(P)	| 0.4	| 		| H	| 		|		| [SP](https://doi.org/10.1134/S1064226923010011)																														|
 | [IEICE Communications Express](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10250155)																					| 2187-0136(O)				| 0.3	| NA	| O	| 		| 		| [SP1](https://doi.org/10.1587/comex.2023XBL0025) [SP2](https://doi.org/10.23919/comex.2024XBL0115)																	|
+| [EMITTER International Journal of Engineering Technology](https://emitter.pens.ac.id/index.php/emitter)																			| 2443-1168(O) 2355-391X(P)	| 0.3	| NA	| O	| 150	| 		| [SP](https://doi.org/10.24003/emitter.v10i1.638)																																|
 | [Journal of Electronics and Information Technology](https://jeit.ac.cn/indexen.htm) 																								| 1009-5896(O)				| 0.2	| 1.1	| 	| 		| 		| [SP1](https://doi.org/10.11999/JEIT220613) [SP2](http://dx.doi.org/10.11999/JEIT230321)																				|
 | [Journal of Optoelectronics and Advanced Materials](https://joam.inoe.ro/)																										| 1841-7132(O) 1454-4164(P)	| 		|		| 	| 		| 		| [SP](https://joam.inoe.ro/articles/compact-dual-band-patch-antenna-design-for-on-body-wireless-communication-system/)													|
 | [TEM JOURNAL - Technology, Education, Management, Informatics](https://www.temjournal.com/) 																						| 2217-8333(O) 2217-8309(P)	| 		| 2.2	| O	| 910	| 		| [SP](http://doi.org/10.18421/TEM112-24)																																|
@@ -315,4 +315,9 @@ order_number: 30
 | [Journal of Electronics and Electrical Engineering](https://ojs.wiserpub.com/index.php/JEEE) 																						| 2972-3280(P)				| NA	| NA	| 	| 		| 		| [SP1](https://doi.org/10.37256/jeee.3220244748) [SP2](https://doi.org/10.37256/jeee.3120244636)																		|
 | [Journal of Techniques](https://journal.mtu.edu.iq/index.php/MTU/article/view/2596) 																								| 2708-8383(O) 1818-653X(P)	| NA	| NA	| O	| 0		| 		| [SP](https://doi.org/10.51173/jt.v6i4.2596)																															|
 | [ES General](https://www.espublisher.com/journals/id/es-general) 																													| 2836-4007(O) 2836-399X(P)	| NA	| NA	| O	| 2000	| 		| [SP](http://dx.doi.org/10.30919/esg1512)																																|
+
+
+
+
+
 
