@@ -47,9 +47,9 @@ Journal finding websites:
 
 Book proposal websites:
 
-📚 [Bentham Books] (https://benthambooks.com/ebook-proposal.php)
+📚 [Bentham Books](https://benthambooks.com/ebook-proposal.php)
 
-📚 [De Gruyter Brill] (https://www.degruyterbrill.com/publishing/for-authors/book-authors/submit-a-book-proposal?lang=en)
+📚 [De Gruyter Brill](https://www.degruyterbrill.com/publishing/for-authors/book-authors/submit-a-book-proposal?lang=en)
 
 📚 [Elsevier] (https://www.elsevier.com/en-in/researcher/author/publish-with-us)
 
